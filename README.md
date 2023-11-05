@@ -18,7 +18,7 @@ For a detailed look at my education, skills, and work experience, feel free to c
 * **Languages:** JavaScript, TypeScript
 * **Frontend:** React.js, Redux, HTML5, CSS3, SASS, BEM, Bootstrap
 * **Backend:** Node.js, Express.js
-* **Database:** MongoDB, MySQL
+* **Database:** MySQL, MongoDB
 * **Tools:** GitHub, Postman, Figma, Power BI
 * **Frameworks:** Electron
 * **Libraries:** Axios, Socket.io
