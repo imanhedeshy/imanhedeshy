@@ -8,7 +8,13 @@
 [![Medium: imanhedeshy](https://img.shields.io/badge/-imanhedeshy-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@imanhedeshy)](https://medium.com/@imanhedeshy)
 [![Website: hedeshy.ca](https://img.shields.io/badge/Website-hedeshy.ca-brightgreen?style=flat-square)](https://hedeshy.ca)
 
-Welcome to my GitHub page! I am Iman, a full-stack software engineer passionate about creating tech solutions that make a difference. With a background in operations and project management, I bring a unique perspective to the development table, ensuring not just code efficacy but also optimized operational workflow in every project I undertake.
+# Welcome to My GitHub!
+
+Hi there! I'm Iman Hedeshy, a Software Engineer with a strong foundation in electrical engineering, project management, and leading cross-functional teams. I'm skilled in a wide range of technologies including HTML, CSS, JavaScript, React, Node.js, and many more. I'm committed to driving innovation and achieving exceptional outcomes in the tech industry.
+
+## :page_facing_up: Resume
+
+For a detailed look at my education, skills, and work experience, feel free to check out my [resume](iman-hedeshy-resume.pdf).
 
 ## :hammer_and_wrench: Technologies and Tools
 * **Languages:** JavaScript, TypeScript
