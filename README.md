@@ -40,7 +40,7 @@ For a detailed look at my education, skills, and work experience, feel free to c
 
 ... and more in my [projects tab](https://github.com/imanhedeshy?tab=repositories).
 
-## :chart_with_upwards_trend: GitHub Stats
+<!-- ## :chart_with_upwards_trend: GitHub Stats -->
 
 <!-- ![Iman's GitHub stats](https://github-readme-stats.vercel.app/api?username=imanhedeshy&show_icons=true&hide_title=true&count_private=true&rand=13) -->
 
