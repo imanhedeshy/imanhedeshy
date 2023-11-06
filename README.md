@@ -41,8 +41,17 @@ For a detailed look at my education, skills, and work experience, feel free to c
 ... and more in my [projects tab](https://github.com/imanhedeshy?tab=repositories).
 
 <!-- ## :chart_with_upwards_trend: GitHub Stats -->
-
 <!-- ![Iman's GitHub stats](https://github-readme-stats.vercel.app/api?username=imanhedeshy&show_icons=true&hide_title=true&count_private=true&rand=13) -->
+![GitHub followers](https://img.shields.io/github/followers/imanhedeshy?style=social)
+![GitHub stars](https://img.shields.io/github/stars/imanhedeshy/your-repo-name)
+![GitHub forks](https://img.shields.io/github/forks/imanhedeshy/your-repo-name)
+![GitHub issues](https://img.shields.io/github/issues/imanhedeshy/your-repo-name)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/imanhedeshy/your-repo-name)
+![GitHub license](https://img.shields.io/github/license/imanhedeshy/your-repo-name)
+![GitHub last commit](https://img.shields.io/github/last-commit/imanhedeshy/your-repo-name)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/imanhedeshy/your-repo-name)
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/imanhedeshy/your-repo-name/your-workflow-name)
+
 
 ## :mailbox: Contact Me
 * Email: [iman.hedeshy@gmail.com](mailto:iman.hedeshy@gmail.com), [iman@hedeshy.ca](mailto:iman@hedeshy.ca)
