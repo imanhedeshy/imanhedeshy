@@ -33,7 +33,7 @@ For a detailed look at my education, skills, and work experience, feel free to c
 ## :seedling: Recent Projects
 
 * [**TheBOX! (Bridge Of eXperience)**](https://github.com/imanhedeshy/the-box-client.git) - Full-stack social networking/educational app enhancing collaborative engagement.
-* [**PrivacyVault**](https://github.com/imanhedeshy/triton-secutiry-solution.git) - Privacy app safeguarding user data, crafted in a 24-hour hackathon challenged by Microsoft. ![Winner](https://img.shields.io/badge/-Winner-FFD700?style=flat-square&logo=trophy&logoColor=white)
+* ![Winner](https://img.shields.io/badge/-Winner-FFD700?style=flat-square&logo=trophy&logoColor=white) [**PrivacyVault**](https://github.com/imanhedeshy/triton-secutiry-solution.git) - Privacy app safeguarding user data, crafted in a 24-hour hackathon challenged by Microsoft. (Which our Team was the WINNER! 🏆) 
 
 
 * [**SolarSystem**](https://github.com/imanhedeshy/solar-system.git) - Interactive simulation of the solar system, exploring celestial bodies.
