@@ -1,0 +1,25 @@
+{
+  "name": "imanhedeshy",
+  "version": "1.0.0",
+  "description": "my GitHub story repo",
+  "main": "fetchStats.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imanhedeshy/imanhedeshy.git"
+  },
+  "author": "Iman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imanhedeshy/imanhedeshy/issues"
+  },
+  "homepage": "https://github.com/imanhedeshy/imanhedeshy#readme",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "dotenv": "^16.3.1",
+    "knex": "^3.0.1",
+    "mysql2": "^3.6.3"
+  }
+}
