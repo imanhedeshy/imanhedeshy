@@ -40,10 +40,7 @@ For a detailed look at my education, skills, and work experience, feel free to c
 
 ## :chart_with_upwards_trend: GitHub Stats
 
-[![Iman's GitHub stats](https://github-readme-stats.vercel.app/api?username=imanhedeshy&show_icons=true&hide_border=true&count_private=true)](https://github.com/imanhedeshy)
-
-<!-- PRs Count -->
-[![Iman's PRs](https://github-readme-stats.vercel.app/api?username=imanhedeshy&hide=issues,contribs)](https://github.com/imanhedeshy)
+![Iman's GitHub stats](https://github-readme-stats.vercel.app/api?username=imanhedeshy&show_icons=true&hide_title=true&count_private=true&rand=123)
 
 ## :mailbox: Contact Me
 * Email: [iman.hedeshy@gmail.com](mailto:iman.hedeshy@gmail.com), [iman@hedeshy.ca](mailto:iman@hedeshy.ca)
