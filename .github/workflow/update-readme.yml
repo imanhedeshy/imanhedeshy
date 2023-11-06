@@ -1,0 +1,34 @@
+name: Update README
+
+on:
+  schedule:
+    # Runs at 00:00 UTC every day
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Fetch GitHub Stats
+        run: |
+          require('dotenv').config();
+          const axios = require('axios');
+          const fs = require('fs');
+
+          // Replace 'username' with your GitHub username
+          const username = 'imanhedeshy'; 
+          // Use the token from your repository secrets
+          axios.defaults.headers.common['Authorization'] = `token ${process.env.GH_TOKEN}`;
+
+          // ... rest of your fetchStats.js code goes here
+
+          // Instead of console.log, update README.md with your stats
+          // fs.writeFileSync('README.md', updatedReadmeContents);
+
+          // Use GitHub API to commit the updated README.md file
+          // ... Commit file code goes here
+
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
