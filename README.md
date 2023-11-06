@@ -15,14 +15,20 @@ Hi there! I'm Iman Hedeshy, a Software Engineer with a strong foundation in elec
 For a detailed look at my education, skills, and work experience, feel free to check out my [resume](iman-hedeshy-resume.pdf).
 
 ## :hammer_and_wrench: Technologies and Tools
-* **Languages:** JavaScript, TypeScript
-* **Frontend:** React.js, Redux, HTML5, CSS3, SASS, BEM, Bootstrap
-* **Backend:** Node.js, Express.js
+* **Languages:** JavaScript (OOP, ES6+), TypeScript, Python
+* **Frontend:** React, HTML5, CSS3, SASS, Redux, MaterialUI (MUI), Bootstrap, Tailwind CSS
+* **Backend:** Node.js, Express.js, Flask
 * **Database:** MySQL, MongoDB
-* **Tools:** GitHub, Postman, Figma, Power BI
-* **Frameworks:** Electron
-* **Libraries:** Axios, Socket.io
-* **Others:** AWS, Agile Methodologies, Scrum Practices, Security and Privacy Strategies
+* **Cloud & Hosting:** Heroku, Netlify, AWS 
+* **Testing:** React Testing
+* **Version Control:** Git, GitHub, Git Flow, Pull Requests, Code Reviews
+* **API Design & Testing:** RESTful APIs, Postman, API Documentation and Blueprint
+* **Design & Prototyping:** Figma, Sketch
+* **Package Managers:** NPM, yarn, pip, brew
+* **Libraries & Frameworks:** Axios, Socket.io, Passport.js, Lodash, React Router, Knex.js, Mongoose
+* **Desktop Application Frameworks:** Electron
+* **Programming Paradigms:** Strong understanding of Object-Oriented Programming (OOP) concepts and their application in software development.
+* **Others:** Agile Methodologies, Scrum Practices, Security and Privacy Strategies, Microservices Architecture; comfortable with various command-line interfaces (Zsh, Bash, PowerShell, CMD, Windows Terminal); understanding of API Design Principles and Performance Optimization; familiar with the concept of CDNs for optimized content delivery; aware of web accessibility standards (WCAG) and the importance of creating responsive, device-agnostic interfaces; knowledge of Internationalization and Localization for adapting applications globally.
 
 ## :seedling: Recent Projects
 
