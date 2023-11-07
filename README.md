@@ -96,11 +96,12 @@ For a detailed look at my education, skills, and work experience, feel free to c
 Feel free to explore my repositories and don't hesitate to contribute or give feedback!
 
 ## :mailbox: Contact Me
-<img width="30%" src ="./assets/qr-code.png" alt="">
+
 - Email: [iman@hedeshy.ca](mailto:iman@hedeshy.ca)
 - Skype: iman.hedeshy
 - Phone: [+1 416 939 4969](tel:+14169394969)
 - Slack: Use email [iman.hedeshy@gmail.com](mailto:iman.hedeshy@gmail.com)
 - BrainStation Graduate Page: [Software Engineering Graduates](https://brainstation.io/hiring-brainstation-graduates)
 
+<img width="30%" src ="./assets/qr-code.png" alt="">
 Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/imanhedeshy/) if you wish to get in touch or collaborate on a project. Happy coding!
