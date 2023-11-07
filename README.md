@@ -115,14 +115,14 @@ Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/imanhedeshy/) i
   }
 
   /* Media query for tablets */
-  @media (min-width: 481px) {
+  @media (min-width: 768px) {
     img {
       width: 40%; /* Tablet size */
     }
   }
 
   /* Media query for desktop */
-  @media (min-width: 769px) {
+  @media (min-width: 1280px) {
     img {
       width: 30%; /* Desktop size */
     }
