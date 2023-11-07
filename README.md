@@ -105,27 +105,6 @@ Feel free to explore my repositories and don't hesitate to contribute or give fe
 
 Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/imanhedeshy/) if you wish to get in touch or collaborate on a project. Happy coding!
 <br>
-<style>
-  /* Base styles for mobile */
-  img {
-    width: 75%; /* Mobile size */
-    transition: width 1s ease; /* Transition effect */
-    margin: 0 auto; /* Center image */
-    display: block; /* Ensure it's block-level to allow centering with margin auto */
-  }
-
-  /* Media query for tablets */
-  @media (min-width: 768px) {
-    img {
-      width: 40%; /* Tablet size */
-    }
-  }
-
-  /* Media query for desktop */
-  @media (min-width: 1280px) {
-    img {
-      width: 30%; /* Desktop size */
-    }
-  }
-</style>
-<img width="45%" src ="./assets/qr-code.png" alt="QR Code">
+<p align="center">
+  <img src="./assets/qr-code.png" alt="QR Code" width="600px"/>
+</p>
