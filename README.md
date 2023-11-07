@@ -106,5 +106,5 @@ Feel free to explore my repositories and don't hesitate to contribute or give fe
 Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/imanhedeshy/) if you wish to get in touch or collaborate on a project. Happy coding!
 <br>
 <p align="center">
-  <img src="./assets/qr-code.png" alt="QR Code" width="600px"/>
+  <img src="./assets/qr-code.png" alt="QR Code" width="512px"/>
 </p>
