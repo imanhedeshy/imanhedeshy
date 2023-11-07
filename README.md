@@ -104,4 +104,5 @@ Feel free to explore my repositories and don't hesitate to contribute or give fe
 - BrainStation Graduate Page: [Software Engineering Graduates](https://brainstation.io/hiring-brainstation-graduates)
 
 Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/imanhedeshy/) if you wish to get in touch or collaborate on a project. Happy coding!
+<br>
 <img width="45%" src ="./assets/qr-code.png" alt="">
