@@ -89,15 +89,15 @@ For a detailed look at my education, skills, and work experience, feel free to c
   
 | Total Stars Earned | Total Forks | Total Issues | Total PRs | Total Contributions |
 |--------------------|-------------|--------------|-----------|----------------------|
-| <!--totalStars-->4<!--/totalStars--> | <!--totalForks-->0<!--/totalForks--> | <!--totalIssues-->0<!--/totalIssues--> | <!--totalPRs-->1<!--/totalPRs--> | <!--totalContributions-->504<!--/totalContributions--> |
+| <!--totalStars-->4<!--/totalStars--> | <!--totalForks-->0<!--/totalForks--> | <!--totalIssues-->0<!--/totalIssues--> | <!--totalPRs-->1<!--/totalPRs--> | <!--totalContributions-->511<!--/totalContributions--> |
 
 </div>
 
 Feel free to explore my repositories and don't hesitate to contribute or give feedback!
 
 ## :mailbox: Contact Me
-
-- Email: [iman.hedeshy@gmail.com](mailto:iman.hedeshy@gmail.com), [iman@hedeshy.ca](mailto:iman@hedeshy.ca)
+<img width="30%" src ="./assets/qr-code.png" alt="">
+- Email: [iman@hedeshy.ca](mailto:iman@hedeshy.ca)
 - Skype: iman.hedeshy
 - Phone: [+1 416 939 4969](tel:+14169394969)
 - Slack: Use email [iman.hedeshy@gmail.com](mailto:iman.hedeshy@gmail.com)
