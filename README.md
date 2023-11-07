@@ -103,5 +103,5 @@ Feel free to explore my repositories and don't hesitate to contribute or give fe
 - Slack: Use email [iman.hedeshy@gmail.com](mailto:iman.hedeshy@gmail.com)
 - BrainStation Graduate Page: [Software Engineering Graduates](https://brainstation.io/hiring-brainstation-graduates)
 
-<img width="30%" src ="./assets/qr-code.png" alt="">
 Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/imanhedeshy/) if you wish to get in touch or collaborate on a project. Happy coding!
+<img width="45%" src ="./assets/qr-code.png" alt="">
