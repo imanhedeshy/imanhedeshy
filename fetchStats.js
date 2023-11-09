@@ -3,8 +3,8 @@ const axios = require('axios');
 const fs = require('fs');
 const execSync = require('child_process').execSync;
 
-const username = 'imanhedeshy'; // Replace with your GitHub username
-const token = process.env.GH_TOKEN; // Ensure this is set in your .env file
+const username = 'imanhedeshy'; 
+const token = process.env.GH_TOKEN; 
 
 const headers = {
   'Authorization': `bearer ${token}`,
