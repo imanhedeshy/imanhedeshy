@@ -12,7 +12,7 @@ Hi there! I'm Iman Hedeshy, a Software Engineer with a strong foundation in elec
 
 ## :page_facing_up: Resume
 
-For a detailed look at my education, skills, and work experience, feel free to check out my [resume](iman-hedeshy-resume.pdf).
+For a detailed look at my education, skills, and work experience, feel free to check out my [resume](assets/iman-hedeshy-resume.pdf).
 
 ## :hammer_and_wrench: Technologies and Tools
 
