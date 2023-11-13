@@ -96,7 +96,7 @@ const updateReadme = (stats) => {
     // Commit and push the changes
     try {
       execSync('git add README.md');
-      execSync('git commit -m "Update README with the latest GitHub stats"');
+      execSync('git commit -m "Update README with the latest GitHub  stats"');
       execSync('git push');
       console.log('README updated and changes pushed to GitHub.');
     } catch (error) {
