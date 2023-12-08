@@ -7,6 +7,7 @@
 [![Twitter: hedeshy](https://img.shields.io/badge/-hedeshy-%231DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/hedeshy)](https://twitter.com/hedeshy)
 [![Facebook: ihedeshy](https://img.shields.io/badge/-ihedeshy-%231877F2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/ihedeshy)](https://www.facebook.com/ihedeshy)
 [![Medium: imanhedeshy](https://img.shields.io/badge/-imanhedeshy-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@imanhedeshy)](https://medium.com/@imanhedeshy)
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/6572bc6c5145316d25d392ff?variant=dark)](https://roadmap.sh)
 
 Hi there! I'm Iman Hedeshy, a Software Engineer with a strong foundation in electrical engineering, project management, and leading cross-functional teams. I'm skilled in a wide range of technologies including HTML, CSS, JavaScript, TypeScript, React, Node.js, MySQL, APIs, AWS, Git and many more. I'm committed to driving innovation and achieving exceptional outcomes in the tech industry.
 
