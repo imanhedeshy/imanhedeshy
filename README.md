@@ -17,11 +17,11 @@ For a detailed look at my education, skills, and work experience, feel free to c
 ## :hammer_and_wrench: Technologies and Tools
 
 - **Languages:** JavaScript (OOP, ES6+), TypeScript, Python
-- **Frontend:** React, HTML5, CSS3, SASS, Redux, MaterialUI (MUI), Bootstrap, Tailwind CSS
+- **Frontend:** React, React Native, HTML5, CSS3, SASS, Redux, MaterialUI (MUI), Bootstrap, Tailwind CSS
 - **Backend:** Node.js, Express.js, Flask
-- **Database:** MySQL, MongoDB
-- **Cloud & Hosting:** Heroku, Netlify, AWS
-- **Testing:** React Testing
+- **Database:** MySQL, MongoDB, PostgreSQL
+- **Cloud & Hosting:** Heroku, Netlify, AWS (including S3)
+- **Testing:** React Testing, Jest
 - **Version Control:** Git, GitHub, Git Flow, Pull Requests, Code Reviews
 - **API Design & Testing:** RESTful APIs, Postman, API Documentation and Blueprint
 - **Design & Prototyping:** Figma, Sketch
