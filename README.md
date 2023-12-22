@@ -90,7 +90,7 @@ For a detailed look at my education, skills, and work experience, feel free to c
 <div align="center">
   
 | Total Stars Earned | Total Forks | Total Issues | Total PRs | Total Contributions |
-|--------------------|-------------|--------------|-----------|----------------------|
+|--------------------|-------------|--------------|-----------|---------------------|
 | <!--totalStars-->5<!--/totalStars--> | <!--totalForks-->0<!--/totalForks--> | <!--totalIssues-->0<!--/totalIssues--> | <!--totalPRs-->1<!--/totalPRs--> | <!--totalContributions-->755<!--/totalContributions--> |
 
 </div>
