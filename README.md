@@ -8,7 +8,7 @@
 [![Facebook: ihedeshy](https://img.shields.io/badge/-ihedeshy-%231877F2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/ihedeshy)](https://www.facebook.com/ihedeshy)
 [![Medium: imanhedeshy](https://img.shields.io/badge/-imanhedeshy-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@imanhedeshy)](https://medium.com/@imanhedeshy)
 
-Hi there! I'm Iman Hedeshy, a Software Engineer with a strong foundation in electrical engineering, project management, and leading cross-functional teams. I'm skilled in a wide range of technologies including HTML, CSS, JavaScript, TypeScript, React, Node.js, MySQL, APIs, AWS, Git and many more. I'm committed to driving innovation and achieving exceptional outcomes in the tech industry.
+Hi there! I'm Iman Hedeshy, a Software Engineer with a strong foundation in electrical engineering, project management, and leading cross-functional teams. I'm skilled in a wide range of technologies including HTML, CSS, JavaScript, TypeScript, React, Node, Express, MySQL, APIs, AWS, Git and many more. I'm committed to driving innovation and achieving exceptional outcomes in the tech industry.
 
 ## :page_facing_up: Resume
 
@@ -17,11 +17,11 @@ For a detailed look at my education, skills, and work experience, feel free to c
 ## :hammer_and_wrench: Technologies and Tools
 
 - **Languages:** JavaScript (OOP, ES6+), TypeScript, Python
-- **Frontend:** React, HTML5, CSS3, SASS, Redux, MaterialUI (MUI), Bootstrap, Tailwind CSS
+- **Frontend:** React, React Native, HTML5, CSS3, SASS, Redux, MaterialUI (MUI), Bootstrap, Tailwind CSS
 - **Backend:** Node.js, Express.js, Flask
-- **Database:** MySQL, MongoDB
-- **Cloud & Hosting:** Heroku, Netlify, AWS
-- **Testing:** React Testing
+- **Database:** MySQL, MongoDB, PostgreSQL
+- **Cloud & Hosting:** Heroku, Netlify, AWS (including S3)
+- **Testing:** React Testing, Jest
 - **Version Control:** Git, GitHub, Git Flow, Pull Requests, Code Reviews
 - **API Design & Testing:** RESTful APIs, Postman, API Documentation and Blueprint
 - **Design & Prototyping:** Figma, Sketch
@@ -91,7 +91,7 @@ For a detailed look at my education, skills, and work experience, feel free to c
   
 | Total Stars Earned | Total Forks | Total Issues | Total PRs | Total Contributions |
 |--------------------|-------------|--------------|-----------|----------------------|
-| <!--totalStars-->5<!--/totalStars--> | <!--totalForks-->0<!--/totalForks--> | <!--totalIssues-->0<!--/totalIssues--> | <!--totalPRs-->1<!--/totalPRs--> | <!--totalContributions-->770<!--/totalContributions--> |
+| <!--totalStars-->5<!--/totalStars--> | <!--totalForks-->0<!--/totalForks--> | <!--totalIssues-->0<!--/totalIssues--> | <!--totalPRs-->1<!--/totalPRs--> | <!--totalContributions-->771<!--/totalContributions--> |
 
 </div>
 
