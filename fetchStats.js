@@ -5,7 +5,7 @@ const axios = require("axios");
 const fs = require("fs");
 const execSync = require("child_process").execSync;
 
-const username = "imanhedeshy";
+const username = process.env.USERNAME;
 const token = process.env.GH_TOKEN;
 
 const headers = {

@@ -4,7 +4,8 @@
   "description": "my GitHub story repo",
   "main": "fetchStats.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node fetchStats.js"
   },
   "repository": {
     "type": "git",
@@ -21,5 +22,9 @@
     "dotenv": "^16.3.1",
     "knex": "^3.0.1",
     "mysql2": "^3.6.3"
+  },
+  "devDependencies": {
+    "eslint": "^8.56.0",
+    "eslint-plugin-react": "^7.33.2"
   }
 }
