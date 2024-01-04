@@ -91,7 +91,7 @@ For a detailed look at my education, skills, and work experience, feel free to c
   
 | Total Stars Earned | Total Forks | Total Issues | Total PRs | Total Contributions |
 |--------------------|-------------|--------------|-----------|----------------------|
-| <!--totalStars-->39<!--/totalStars--> | <!--totalForks-->16<!--/totalForks--> | <!--totalIssues-->0<!--/totalIssues--> | <!--totalPRs-->0<!--/totalPRs--> | <!--totalContributions-->100<!--/totalContributions--> |
+| <!--totalStars-->11<!--/totalStars--> | <!--totalForks-->2<!--/totalForks--> | <!--totalIssues-->0<!--/totalIssues--> | <!--totalPRs-->2<!--/totalPRs--> | <!--totalContributions-->798<!--/totalContributions--> |
 
 </div>
 
