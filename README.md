@@ -10,6 +10,15 @@
 
 Hi there! I'm Iman Hedeshy, a Software Engineer with a strong foundation in computer engineering, project management, and leading cross-functional teams. I'm skilled in a wide range of technologies including HTML, CSS, JavaScript, TypeScript, React, Node, Express, MySQL, APIs, AWS, Git and many more. I'm committed to driving innovation and achieving exceptional outcomes in the tech industry.
 
+## :muscle: Core Strengths
+
+- **Relentless Work Ethic:** Known for an extraordinary commitment to my work, tirelessly striving for excellence.
+- **Persistence:** Persistently working until tasks are fully accomplished.
+- **Natural Team Player:** Collaboration is second nature to me, contributing effectively to team success.
+- **Dedication and Loyalty:** These are my guiding principles, reflected in every task I undertake.
+- **Leadership:** Proven ability to lead and inspire teams.
+- **Eagerness to Learn:** Committed to continuous learning and improvement.
+
 ## :page_facing_up: Resume
 
 For a detailed look at my education, skills, and work experience, feel free to check out my [resume](assets/iman-hedeshy-resume.docx).
