@@ -40,7 +40,7 @@ For a detailed look at my education, skills, and work experience, feel free to c
 - **Programming Paradigms:** Strong understanding of Object-Oriented Programming (OOP) concepts and their application in software development.
 - **Others:** Agile Methodologies, Scrum Practices, Security and Privacy Strategies, Microservices Architecture; comfortable with various command-line interfaces (Zsh, Bash, PowerShell, CMD, Windows Terminal); understanding of API Design Principles and Performance Optimization; familiar with the concept of CDNs for optimized content delivery; aware of web accessibility standards (WCAG) and the importance of creating responsive, device-agnostic interfaces; knowledge of Internationalization and Localization for adapting applications globally.
 
-- ## Cloud Computing and Cybersecurity
+- ## :cloud::lock: Cloud Computing and Cybersecurity
 
 - **AWS (Amazon Web Services):** Proficient with a broad array of AWS services, enabling comprehensive cloud infrastructure management. My expertise spans across computing, storage, databases, and security, ensuring scalable and secure cloud solutions. Currently working towards official AWS certification to further validate my skills in cloud computing.
 - **Cybersecurity:** Proudly hold a Cybersecurity certification from Brainstation, providing a solid foundation in securing systems and networks against cyber threats. Additionally, I am actively pursuing an official certification from ISC2, recognized globally as a leading cybersecurity credential, to deepen my expertise and commitment to cybersecurity excellence.
