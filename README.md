@@ -26,10 +26,10 @@ For a detailed look at my education, skills, and work experience, feel free to c
 ## :hammer_and_wrench: Technologies and Tools
 
 - **Languages:** JavaScript (OOP, ES6+), TypeScript, Python
-- **Frontend:** React, React Native, HTML5, CSS3, SASS, Redux, MaterialUI (MUI), Bootstrap, Tailwind CSS
+- **Frontend:** React, React Native, HTML5, CSS3, SASS, Redux, MaterialUI (MUI), Bootstrap, TailwindCSS
 - **Backend:** Node.js, Express.js, Flask
 - **Database:** MySQL, MongoDB, PostgreSQL
-- **Cloud & Hosting:** Heroku, Netlify, AWS (including S3)
+- **Cloud & Hosting:** AWS, Heroku, Netlify
 - **Testing:** React Testing, Jest
 - **Version Control:** Git, GitHub, Git Flow, Pull Requests, Code Reviews
 - **API Design & Testing:** RESTful APIs, Postman, API Documentation and Blueprint
@@ -39,6 +39,11 @@ For a detailed look at my education, skills, and work experience, feel free to c
 - **Desktop Application Frameworks:** Electron
 - **Programming Paradigms:** Strong understanding of Object-Oriented Programming (OOP) concepts and their application in software development.
 - **Others:** Agile Methodologies, Scrum Practices, Security and Privacy Strategies, Microservices Architecture; comfortable with various command-line interfaces (Zsh, Bash, PowerShell, CMD, Windows Terminal); understanding of API Design Principles and Performance Optimization; familiar with the concept of CDNs for optimized content delivery; aware of web accessibility standards (WCAG) and the importance of creating responsive, device-agnostic interfaces; knowledge of Internationalization and Localization for adapting applications globally.
+
+- ## Cloud Computing and Cybersecurity
+
+- **AWS (Amazon Web Services):** Proficient with a broad array of AWS services, enabling comprehensive cloud infrastructure management. My expertise spans across computing, storage, databases, and security, ensuring scalable and secure cloud solutions. Currently working towards official AWS certification to further validate my skills in cloud computing.
+- **Cybersecurity:** Proudly hold a Cybersecurity certification from Brainstation, providing a solid foundation in securing systems and networks against cyber threats. Additionally, I am actively pursuing an official certification from ISC2, recognized globally as a leading cybersecurity credential, to deepen my expertise and commitment to cybersecurity excellence.
 
 <p align="center">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
