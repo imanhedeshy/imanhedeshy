@@ -109,10 +109,11 @@ For a detailed look at my education, skills, and work experience, feel free to c
   <img alt="NPM" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
   <img alt="Yarn" src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white">
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  </br>
   <img alt="Visual Studio" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white">
   </br>
   </br>
-  <!-- Additional Tools & Libraries -->
+ <!-- Additional Tools & Libraries -->
   <img alt="Electron" src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white">
   <img alt="Axios" src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white">
   <img alt="Socket.io" src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket-dot-io&logoColor=white">
@@ -124,7 +125,6 @@ For a detailed look at my education, skills, and work experience, feel free to c
   <img alt="React Hook Form" src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=react-hook-form&logoColor=white">
   <img alt="i18next" src="https://img.shields.io/badge/i18next-26A69A?style=for-the-badge&logo=i18next&logoColor=white">
   <img alt="react-i18next" src="https://img.shields.io/badge/react--i18next-26A69A?style=for-the-badge&logo=react&logoColor=white">
-  <img alt="Axios" src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white">
   <img alt="SWR" src="https://img.shields.io/badge/SWR-000000?style=for-the-badge">
   <img alt="React Query" src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge">
   <img alt="Webpack" src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black">
@@ -135,6 +135,24 @@ For a detailed look at my education, skills, and work experience, feel free to c
   <img alt="Cypress" src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white">
   <img alt="Storybook" src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white">
   <img alt="react-testing-library" src="https://img.shields.io/badge/react--testing--library-E33332?style=for-the-badge&logo=testing-library&logoColor=white">
+  <img alt="Chakra UI" src="https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white">
+  <img alt="Ant Design" src="https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=ant-design&logoColor=white">
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  <img alt="React Helmet" src="https://img.shields.io/badge/React_Helmet-232F3E?style=for-the-badge&logo=react&logoColor=white">
+  <img alt="Redux Toolkit" src="https://img.shields.io/badge/Redux_Toolkit-7852B2?style=for-the-badge&logo=redux&logoColor=white">
+  <img alt="Formik" src="https://img.shields.io/badge/Formik-FF4785?style=for-the-badge&logo=formik&logoColor=white">
+  <img alt="Yup" src="https://img.shields.io/badge/Yup-232F3E?style=for-the-badge&logo=yup&logoColor=white">
+  <img alt="React Bootstrap" src="https://img.shields.io/badge/React_Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <!-- Additional Node.js & Express Tools & Libraries -->
+  <img alt="Nodemon" src="https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white">
+  <img alt="PM2" src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white">
+  <img alt="Morgan" src="https://img.shields.io/badge/Morgan-1E90FF?style=for-the-badge&logo=node.js&logoColor=white">
+  <img alt="Express Validator" src="https://img.shields.io/badge/Express_Validator-9B7D0F?style=for-the-badge&logo=node.js&logoColor=white">
+  <img alt="Helmet" src="https://img.shields.io/badge/Helmet-0769AD?style=for-the-badge&logo=node.js&logoColor=white">
+  <img alt="JWT" src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white">
+  <img alt="bcrypt" src="https://img.shields.io/badge/bcrypt-00457C?style=for-the-badge">
+  <img alt="Multer" src="https://img.shields.io/badge/Multer-8B4513?style=for-the-badge&logo=node.js&logoColor=white">
+  <img alt="Passport.js" src="https://img.shields.io/badge/Passport.js-34E27A?style=for-the-badge&logo=passport&logoColor=white">
   </br>
   </br>
   <!-- Project Management -->
