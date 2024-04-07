@@ -15,7 +15,9 @@
 ## 🚀 About Me
 
 Hi there! I'm Iman Hedeshy, a Software Engineer with a strong foundation in computer engineering, project management, and leading cross-functional teams. I'm skilled in a wide range of technologies including HTML, CSS, TypeScript, React, Node.js, Express, MySQL, APIs, AWS, Git, and many more. I'm committed to driving innovation and achieving exceptional outcomes in the tech industry.
-I'm currently enhancing healthcare diagnostics at Adomo Health in New York and developing scalable web solutions at Ada Tech in Toronto. As a dedicated software engineer, I leverage a wide range of technologies to ensure feasibility, scalability, integrity, and security. 
+
+I'm currently enhancing healthcare diagnostics at Adomo Health in New York and developing scalable web solutions at Ada Tech in Toronto. As a dedicated software engineer, I leverage a wide range of technologies to ensure feasibility, scalability, integrity, and security.
+
 Driven by a relentless work ethic and a dedication to operational excellence, I've played pivotal roles in transforming startup ventures into industry leaders, notably contributing to Snapp's growth to become the biggest tech company in the Middle East.
 
 ## :muscle: Core Strengths
@@ -124,7 +126,7 @@ For a detailed look at my education, skills, and work experience, feel free to c
   
 | Total Stars Earned | Total Forks | Total Issues | Total PRs | Total Contributions |
 |--------------------|-------------|--------------|-----------|----------------------|
-| <!--totalStars-->25<!--/totalStars--> | <!--totalForks-->2<!--/totalForks--> | <!--totalIssues-->0<!--/totalIssues--> | <!--totalPRs-->2<!--/totalPRs--> | <!--totalContributions-->802<!--/totalContributions--> |
+| <!--totalStars-->45<!--/totalStars--> | <!--totalForks-->12<!--/totalForks--> | <!--totalIssues-->7<!--/totalIssues--> | <!--totalPRs-->211<!--/totalPRs--> | <!--totalContributions-->1,013<!--/totalContributions--> |
 
 </div>
 
