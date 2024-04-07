@@ -1,12 +1,14 @@
 # Iman Hedeshy :man_technologist:
 
-[![Website: hedeshy.ca](https://img.shields.io/badge/Website-hedeshy.ca-brightgreen?style=flat-square)](https://hedeshy.ca)
-[![Linkedin: imanhedeshy](https://img.shields.io/badge/-ImanHedeshy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imanhedeshy/)](https://www.linkedin.com/in/imanhedeshy/)
-[![GitHub ImanHedeshy](https://img.shields.io/github/followers/imanhedeshy?label=follow&style=social)](https://github.com/imanhedeshy)
-[![Instagram: imanhedeshy](https://img.shields.io/badge/-imanhedeshy-%23E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/imanhedeshy/)](https://www.instagram.com/imanhedeshy/)
-[![Twitter: hedeshy](https://img.shields.io/badge/-hedeshy-%231DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/hedeshy)](https://twitter.com/hedeshy)
-[![Facebook: ihedeshy](https://img.shields.io/badge/-ihedeshy-%231877F2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/ihedeshy)](https://www.facebook.com/ihedeshy)
-[![Medium: imanhedeshy](https://img.shields.io/badge/-imanhedeshy-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@imanhedeshy)](https://medium.com/@imanhedeshy)
+[![Website: hedeshy.ca](https://img.shields.io/badge/Website-hedeshy.ca-brightgreen?style=for-the-badge&logo=chrome&logoColor=white)](https://hedeshy.ca)
+[![Linkedin: imanhedeshy](https://img.shields.io/badge/-ImanHedeshy-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imanhedeshy/)](https://www.linkedin.com/in/imanhedeshy/)
+[![GitHub followers](https://img.shields.io/github/followers/imanhedeshy?label=follow&style=for-the-badge&logo=github)](https://github.com/imanhedeshy)
+[![Instagram: imanhedeshy](https://img.shields.io/badge/-imanhedeshy-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/imanhedeshy/)](https://www.instagram.com/imanhedeshy/)
+[![Twitter: hedeshy](https://img.shields.io/badge/-hedeshy-%231DA1F2?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/hedeshy)](https://twitter.com/hedeshy)
+[![Facebook: ihedeshy](https://img.shields.io/badge/-ihedeshy-%231877F2?style=for-the-badge&logo=Facebook&logoColor=white&link=https://www.facebook.com/ihedeshy)](https://www.facebook.com/ihedeshy)
+[![Medium: imanhedeshy](https://img.shields.io/badge/-imanhedeshy-black?style=for-the-badge&logo=Medium&logoColor=white&link=https://medium.com/@imanhedeshy)](https://medium.com/@imanhedeshy)
+[![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=imanhedeshy.imanhedeshy&left_color=green&right_color=red&style=for-the-badge)](https://github.com/imanhedeshy)
+[![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red?style=for-the-badge&logo=open-source-initiative&logoColor=white)](https://github.com/imanhedeshy)
 
 ## 🚀 About Me
 
@@ -32,35 +34,20 @@ For a detailed look at my education, skills, and work experience, feel free to c
 
 ## :hammer_and_wrench: Technologies and Tools
 
-- **Languages:** JavaScript (OOP, ES6+), TypeScript, Python
-- **Frontend:** React, React Native, HTML5, CSS3, SASS, Redux, MaterialUI (MUI), Bootstrap, TailwindCSS
-- **Backend:** Node.js, Express.js, Flask
-- **Database:** MySQL, MongoDB, PostgreSQL
-- **Cloud & Hosting:** AWS, Heroku, Netlify
-- **Testing:** React Testing, Jest
-- **Version Control:** Git, GitHub, Git Flow, Pull Requests, Code Reviews
-- **API Design & Testing:** RESTful APIs, Postman, API Documentation and Blueprint
-- **Design & Prototyping:** Figma, Sketch
-- **Package Managers:** NPM, yarn, pip, brew
-- **Libraries & Frameworks:** Axios, Socket.io, Passport.js, Lodash, React Router, Knex.js, Mongoose
-- **Desktop Application Frameworks:** Electron
-- **Programming Paradigms:** Strong understanding of Object-Oriented Programming (OOP) concepts and their application in software development.
-- **Others:** Agile Methodologies, Scrum Practices, Security and Privacy Strategies, Microservices Architecture; comfortable with various command-line interfaces (Zsh, Bash, PowerShell, CMD, Windows Terminal); understanding of API Design Principles and Performance Optimization; familiar with the concept of CDNs for optimized content delivery; aware of web accessibility standards (WCAG) and the importance of creating responsive, device-agnostic interfaces; knowledge of Internationalization and Localization for adapting applications globally.
-## :hammer_and_wrench: Technologies and Tools
-
 - **Languages:** JavaScript (OOP, ES6+), TypeScript, Python, Go
-- **Frontend:** React, Next.js, React Native, HTML5, CSS3, SASS, Redux, Material-UI, Bootstrap, TailwindCSS
+- **Frontend:** React, React Native, Next.js, HTML5, CSS3, SASS, Redux, MaterialUI (MUI), Bootstrap, TailwindCSS
 - **Backend:** Node.js, Express.js, Flask, Server-side JavaScript
 - **Database:** MySQL, MongoDB, PostgreSQL
 - **Cloud & Hosting:** AWS (EC2, ECS, S3), Vercel, Heroku, Netlify
-- **Testing:** React Testing Library, Jest
-- **Version Control:** Git, GitHub, Git Flow
-- **API Design & Testing:** RESTful APIs, GraphQL, Postman
+- **Testing:** React Testing, Jest, React Testing Library
+- **Version Control:** Git, GitHub, Git Flow, Pull Requests, Code Reviews
+- **API Design & Testing:** RESTful APIs, GraphQL, Postman, API Documentation and Blueprint
 - **Design & Prototyping:** Figma, Sketch
-- **Package Managers:** NPM, yarn
+- **Package Managers:** NPM, yarn, pip, brew
 - **Libraries & Frameworks:** Axios, Socket.io, Passport.js, Lodash, React Router, Knex.js, Mongoose, yup, formik
 - **Desktop Application Frameworks:** Electron
-- **Other Tools:** Notion, Lucidchart, Agile Project Management (Scrum, Kanban), Cybersecurity Tools, System Deployment
+- **Programming Paradigms:** Strong understanding of Object-Oriented Programming (OOP) concepts and their application in software development.
+- **Others:** Agile Methodologies, Scrum Practices, Security and Privacy Strategies, Microservices Architecture; comfortable with various command-line interfaces (Zsh, Bash, PowerShell, CMD, Windows Terminal); understanding of API Design Principles and Performance Optimization; familiar with the concept of CDNs for optimized content delivery; aware of web accessibility standards (WCAG) and the importance of creating responsive, device-agnostic interfaces; knowledge of Internationalization and Localization for adapting applications globally; Notion, Lucidchart, Cybersecurity Tools, System Deployment.
 
 - ## :cloud::lock: Cloud Computing and Cybersecurity
 
@@ -82,9 +69,9 @@ For a detailed look at my education, skills, and work experience, feel free to c
   </br>
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   </br>
-  </br>
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  </br>
   </br>
   <img alt="SASS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
   <img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white">
