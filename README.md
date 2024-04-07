@@ -1,18 +1,16 @@
 # Iman Hedeshy :man_technologist:
 
-[![Website: hedeshy.ca](https://img.shields.io/badge/Website-hedeshy.ca-brightgreen?style=flat-square)](https://hedeshy.ca)
-[![Linkedin: imanhedeshy](https://img.shields.io/badge/-ImanHedeshy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imanhedeshy/)](https://www.linkedin.com/in/imanhedeshy/)
-[![GitHub ImanHedeshy](https://img.shields.io/github/followers/imanhedeshy?label=follow&style=social)](https://github.com/imanhedeshy)
-</br>
-[![Instagram: imanhedeshy](https://img.shields.io/badge/-imanhedeshy-%23E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/imanhedeshy/)](https://www.instagram.com/imanhedeshy/)
-[![Twitter: hedeshy](https://img.shields.io/badge/-hedeshy-%231DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/hedeshy)](https://twitter.com/hedeshy)
-[![Facebook: ihedeshy](https://img.shields.io/badge/-ihedeshy-%231877F2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/ihedeshy)](https://www.facebook.com/ihedeshy)
-</br>
-[![Stack Overflow: imanhedeshy](https://img.shields.io/badge/-ImanHedeshy-FE7A16?style=flat-square&logo=Stack-Overflow&logoColor=white&link=https://stackoverflow.com/users/5136010/iman-hedeshy)](https://stackoverflow.com/users/5136010/iman-hedeshy)
-[![Medium: imanhedeshy](https://img.shields.io/badge/-imanhedeshy-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@imanhedeshy)](https://medium.com/@imanhedeshy)
-[![Dev.to: imanhedeshy](https://img.shields.io/badge/-imanhedeshy-0A0A0A?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/imanhedeshy)](https://dev.to/imanhedeshy)
-[![Hashnode: imanhedeshy](https://img.shields.io/badge/-imanhedeshy-2962FF?style=flat-square&logo=hashnode&logoColor=white&link=https://hashnode.com/@imanhedeshy)](https://hashnode.com/@imanhedeshy)
-[![Reddit: PSTCHOX](https://img.shields.io/badge/-PSTCHOX-FF4500?style=flat-square&logo=Reddit&logoColor=white&link=https://www.reddit.com/user/PSTCHOX/)](https://www.reddit.com/user/PSTCHOX/)
+[![Website: hedeshy.ca](https://img.shields.io/badge/Website-hedeshy.ca-brightgreen?style=flat-square)](https://hedeshy.ca)" "
+[![Linkedin: imanhedeshy](https://img.shields.io/badge/-ImanHedeshy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imanhedeshy/)](https://www.linkedin.com/in/imanhedeshy/)" "
+[![GitHub ImanHedeshy](https://img.shields.io/github/followers/imanhedeshy?label=follow&style=social)](https://github.com/imanhedeshy)" "
+[![Instagram: imanhedeshy](https://img.shields.io/badge/-imanhedeshy-%23E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/imanhedeshy/)](https://www.instagram.com/imanhedeshy/)" "
+[![Twitter: hedeshy](https://img.shields.io/badge/-hedeshy-%231DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/hedeshy)](https://twitter.com/hedeshy)" "
+[![Facebook: ihedeshy](https://img.shields.io/badge/-ihedeshy-%231877F2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/ihedeshy)](https://www.facebook.com/ihedeshy)" "
+[![Stack Overflow: imanhedeshy](https://img.shields.io/badge/-ImanHedeshy-FE7A16?style=flat-square&logo=Stack-Overflow&logoColor=white&link=https://stackoverflow.com/users/5136010/iman-hedeshy)](https://stackoverflow.com/users/5136010/iman-hedeshy)" "
+[![Medium: imanhedeshy](https://img.shields.io/badge/-imanhedeshy-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@imanhedeshy)](https://medium.com/@imanhedeshy)" "
+[![Dev.to: imanhedeshy](https://img.shields.io/badge/-imanhedeshy-0A0A0A?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/imanhedeshy)](https://dev.to/imanhedeshy)" "
+[![Hashnode: imanhedeshy](https://img.shields.io/badge/-imanhedeshy-2962FF?style=flat-square&logo=hashnode&logoColor=white&link=https://hashnode.com/@imanhedeshy)](https://hashnode.com/@imanhedeshy)" "
+[![Reddit: PSTCHOX](https://img.shields.io/badge/-PSTCHOX-FF4500?style=flat-square&logo=Reddit&logoColor=white&link=https://www.reddit.com/user/PSTCHOX/)](https://www.reddit.com/user/PSTCHOX/)" "
 
 ## 🚀 About Me
 
