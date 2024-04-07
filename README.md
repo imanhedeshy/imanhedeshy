@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-Hi there! I'm Iman Hedeshy, a Software Engineer with a strong foundation in computer engineering, project management, and leading cross-functional teams. I'm skilled in a wide range of technologies including HTML, CSS, TypeScript, React, Node.js, Express, MySQL, APIs, AWS, Git, and many more. I'm committed to driving innovation and achieving exceptional outcomes in the tech industry.
+Hi there! I'm Iman, a Software Engineer with a strong foundation in computer engineering, project management, and leading cross-functional teams. I'm skilled in a wide range of technologies including HTML, CSS, TypeScript, React, Node.js, Express, MySQL, APIs, AWS, Git, and many more. I'm committed to driving innovation and achieving exceptional outcomes in the tech industry.
 
 I'm currently enhancing healthcare diagnostics at Adomo Health in New York and developing scalable web solutions at Ada Tech in Toronto. As a dedicated software engineer, I leverage a wide range of technologies to ensure feasibility, scalability, integrity, and security.
 
@@ -59,54 +59,87 @@ For a detailed look at my education, skills, and work experience, feel free to c
 - **Cybersecurity:** Proudly hold a Cybersecurity certification from Brainstation, providing a solid foundation in securing systems and networks against cyber threats. Additionally, I am actively pursuing an official certification from ISC2, recognized globally as a leading cybersecurity credential, to deepen my expertise and commitment to cybersecurity excellence.
 
 <p align="center">
+  <!-- Foundation -->
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  </br> 
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  </br>
-  </br>
+  </br></br>
+  <!-- Main Tools -->
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white">
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next-dot-js&logoColor=white">
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   </br>
+  <!-- Collaboration & Version Control -->
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  </br>
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img alt="GitLab" src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white">
+  </br></br>
+  <!-- Languages -->
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  </br>
-  </br>
+  <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
+  </br></br>
+  <!-- Styling -->
   <img alt="SASS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
   <img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white">
   <img alt="MaterialUI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white">
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-  <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
+  </br>
+  <!-- Databases & API -->
   <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E434AA?style=for-the-badge&logo=graphql&logoColor=white">
+  </br></br>
+  <!-- Hosting & Cloud Services -->
+  <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
   <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
   <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
-  <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
+  </br>
+  <!-- Design -->
   <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
   <img alt="Sketch" src="https://img.shields.io/badge/Sketch-F7B500?style=for-the-badge&logo=sketch&logoColor=black">
+  </br></br>
+  <!-- Package Managers & Tools -->
   <img alt="NPM" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
   <img alt="Yarn" src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white">
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  <img alt="Visual Studio" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white">
+  </br>
+  <!-- Additional Tools & Libraries -->
   <img alt="Electron" src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white">
   <img alt="Axios" src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white">
   <img alt="Socket.io" src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket-dot-io&logoColor=white">
   <img alt="Passport" src="https://img.shields.io/badge/Passport-34E27A?style=for-the-badge&logo=passport&logoColor=white">
   <img alt="Lodash" src="https://img.shields.io/badge/Lodash-3492FF?style=for-the-badge&logo=lodash&logoColor=white">
   <img alt="React Router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
-  <img alt="Knex.js" src="https://img.shields.io/badge/Knex.js-FFFFFF?style=for-the-badge&logo=knex-dot-js&logoColor=black">
-  <img alt="Mongoose" src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white">
-  <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E434AA?style=for-the-badge&logo=graphql&logoColor=white">
-  <img alt="Yup" src="https://img.shields.io/badge/Yup-ffffff?style=for-the-badge">
-  <img alt="Formik" src="https://img.shields.io/badge/Formik-000000?style=for-the-badge&logo=formik&logoColor=white">
-  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
+  <img alt="Redux-Saga" src="https://img.shields.io/badge/Redux_Saga-999999?style=for-the-badge&logo=redux-saga&logoColor=white">
+  <img alt="Styled Components" src="https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
+  <img alt="React Hook Form" src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=react-hook-form&logoColor=white">
+  <img alt="i18next" src="https://img.shields.io/badge/i18next-26A69A?style=for-the-badge&logo=i18next&logoColor=white">
+  <img alt="react-i18next" src="https://img.shields.io/badge/react--i18next-26A69A?style=for-the-badge&logo=react&logoColor=white">
+  <img alt="Axios" src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white">
+  <img alt="SWR" src="https://img.shields.io/badge/SWR-000000?style=for-the-badge">
+  <img alt="React Query" src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge">
+  <img alt="Webpack" src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black">
+  <img alt="Babel" src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black">
+  <img alt="ESLint" src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white">
+  <img alt="Prettier" src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black">
+  <img alt="Jest" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white">
+  <img alt="Cypress" src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white">
+  <img alt="Storybook" src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white">
+  <img alt="react-testing-library" src="https://img.shields.io/badge/react--testing--library-E33332?style=for-the-badge&logo=testing-library&logoColor=white">
+  </br>
+  <!-- Project Management -->
+  <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
+  <img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
   <img alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
   <img alt="Lucidchart" src="https://img.shields.io/badge/Lucidchart-FDBB2D?style=for-the-badge&logo=lucidchart&logoColor=black">
+  <img alt="Microsoft Project" src="https://img.shields.io/badge/Microsoft_Project-217346?style=for-the-badge&logo=microsoft&logoColor=white">
 </p>
 
 ## :seedling: Recent Projects
