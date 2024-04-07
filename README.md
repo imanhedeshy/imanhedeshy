@@ -8,7 +8,11 @@
 [![Facebook: ihedeshy](https://img.shields.io/badge/-ihedeshy-%231877F2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/ihedeshy)](https://www.facebook.com/ihedeshy)
 [![Medium: imanhedeshy](https://img.shields.io/badge/-imanhedeshy-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@imanhedeshy)](https://medium.com/@imanhedeshy)
 
-Hi there! I'm Iman Hedeshy, a Software Engineer with a strong foundation in computer engineering, project management, and leading cross-functional teams. I'm skilled in a wide range of technologies including HTML, CSS, JavaScript, TypeScript, React, Node, Express, MySQL, APIs, AWS, Git and many more. I'm committed to driving innovation and achieving exceptional outcomes in the tech industry.
+## 🚀 About Me
+
+Hi there! I'm Iman Hedeshy, a Software Engineer with a strong foundation in computer engineering, project management, and leading cross-functional teams. I'm skilled in a wide range of technologies including HTML, CSS, TypeScript, React, Node.js, Express, MySQL, APIs, AWS, Git, and many more. I'm committed to driving innovation and achieving exceptional outcomes in the tech industry.
+I'm currently enhancing healthcare diagnostics at Adomo Health in New York and developing scalable web solutions at Ada Tech in Toronto. As a dedicated software engineer, I leverage a wide range of technologies to ensure feasibility, scalability, integrity, and security. 
+Driven by a relentless work ethic and a dedication to operational excellence, I've played pivotal roles in transforming startup ventures into industry leaders, notably contributing to Snapp's growth to become the biggest tech company in the Middle East.
 
 ## :muscle: Core Strengths
 
@@ -18,6 +22,9 @@ Hi there! I'm Iman Hedeshy, a Software Engineer with a strong foundation in comp
 - **Dedication and Loyalty:** These are my guiding principles, reflected in every task I undertake.
 - **Leadership:** Proven ability to lead and inspire teams.
 - **Eagerness to Learn:** Committed to continuous learning and improvement.
+- **Adaptability:** Swiftly adapt to new technologies and changing business environments.
+- **Problem Solving:** Expertise in diagnosing issues and implementing effective solutions swiftly.
+- **Communication:** Strong ability to communicate complex technical concepts to non-technical stakeholders.
 
 ## :page_facing_up: Resume
 
@@ -39,6 +46,21 @@ For a detailed look at my education, skills, and work experience, feel free to c
 - **Desktop Application Frameworks:** Electron
 - **Programming Paradigms:** Strong understanding of Object-Oriented Programming (OOP) concepts and their application in software development.
 - **Others:** Agile Methodologies, Scrum Practices, Security and Privacy Strategies, Microservices Architecture; comfortable with various command-line interfaces (Zsh, Bash, PowerShell, CMD, Windows Terminal); understanding of API Design Principles and Performance Optimization; familiar with the concept of CDNs for optimized content delivery; aware of web accessibility standards (WCAG) and the importance of creating responsive, device-agnostic interfaces; knowledge of Internationalization and Localization for adapting applications globally.
+## :hammer_and_wrench: Technologies and Tools
+
+- **Languages:** JavaScript (OOP, ES6+), TypeScript, Python, Go
+- **Frontend:** React, Next.js, React Native, HTML5, CSS3, SASS, Redux, Material-UI, Bootstrap, TailwindCSS
+- **Backend:** Node.js, Express.js, Flask, Server-side JavaScript
+- **Database:** MySQL, MongoDB, PostgreSQL
+- **Cloud & Hosting:** AWS (EC2, ECS, S3), Vercel, Heroku, Netlify
+- **Testing:** React Testing Library, Jest
+- **Version Control:** Git, GitHub, Git Flow
+- **API Design & Testing:** RESTful APIs, GraphQL, Postman
+- **Design & Prototyping:** Figma, Sketch
+- **Package Managers:** NPM, yarn
+- **Libraries & Frameworks:** Axios, Socket.io, Passport.js, Lodash, React Router, Knex.js, Mongoose, yup, formik
+- **Desktop Application Frameworks:** Electron
+- **Other Tools:** Notion, Lucidchart, Agile Project Management (Scrum, Kanban), Cybersecurity Tools, System Deployment
 
 - ## :cloud::lock: Cloud Computing and Cybersecurity
 
@@ -52,8 +74,10 @@ For a detailed look at my education, skills, and work experience, feel free to c
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   </br>
   </br>
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white">
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next-dot-js&logoColor=white">
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   </br>
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
@@ -86,6 +110,12 @@ For a detailed look at my education, skills, and work experience, feel free to c
   <img alt="React Router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
   <img alt="Knex.js" src="https://img.shields.io/badge/Knex.js-FFFFFF?style=for-the-badge&logo=knex-dot-js&logoColor=black">
   <img alt="Mongoose" src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white">
+  <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E434AA?style=for-the-badge&logo=graphql&logoColor=white">
+  <img alt="Yup" src="https://img.shields.io/badge/Yup-ffffff?style=for-the-badge">
+  <img alt="Formik" src="https://img.shields.io/badge/Formik-000000?style=for-the-badge&logo=formik&logoColor=white">
+  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
+  <img alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+  <img alt="Lucidchart" src="https://img.shields.io/badge/Lucidchart-FDBB2D?style=for-the-badge&logo=lucidchart&logoColor=black">
 </p>
 
 ## :seedling: Recent Projects
