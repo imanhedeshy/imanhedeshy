@@ -1,14 +1,12 @@
 # Iman Hedeshy :man_technologist:
 
-[![Website: hedeshy.ca](https://img.shields.io/badge/Website-hedeshy.ca-brightgreen?style=for-the-badge&logo=chrome&logoColor=white)](https://hedeshy.ca)
-[![Linkedin: imanhedeshy](https://img.shields.io/badge/-ImanHedeshy-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imanhedeshy/)](https://www.linkedin.com/in/imanhedeshy/)
-[![GitHub followers](https://img.shields.io/github/followers/imanhedeshy?label=follow&style=for-the-badge&logo=github)](https://github.com/imanhedeshy)
-[![Instagram: imanhedeshy](https://img.shields.io/badge/-imanhedeshy-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/imanhedeshy/)](https://www.instagram.com/imanhedeshy/)
-[![Twitter: hedeshy](https://img.shields.io/badge/-hedeshy-%231DA1F2?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/hedeshy)](https://twitter.com/hedeshy)
-[![Facebook: ihedeshy](https://img.shields.io/badge/-ihedeshy-%231877F2?style=for-the-badge&logo=Facebook&logoColor=white&link=https://www.facebook.com/ihedeshy)](https://www.facebook.com/ihedeshy)
-[![Medium: imanhedeshy](https://img.shields.io/badge/-imanhedeshy-black?style=for-the-badge&logo=Medium&logoColor=white&link=https://medium.com/@imanhedeshy)](https://medium.com/@imanhedeshy)
-[![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=imanhedeshy.imanhedeshy&left_color=green&right_color=red&style=for-the-badge)](https://github.com/imanhedeshy)
-[![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red?style=for-the-badge&logo=open-source-initiative&logoColor=white)](https://github.com/imanhedeshy)
+[![Website: hedeshy.ca](https://img.shields.io/badge/Website-hedeshy.ca-brightgreen?style=plastic&logo=chrome&logoColor=white)](https://hedeshy.ca)
+[![Linkedin: imanhedeshy](https://img.shields.io/badge/-ImanHedeshy-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imanhedeshy/)](https://www.linkedin.com/in/imanhedeshy/)
+[![GitHub followers](https://img.shields.io/github/followers/imanhedeshy?label=follow&style=plastic&logo=github)](https://github.com/imanhedeshy)
+[![Instagram: imanhedeshy](https://img.shields.io/badge/-imanhedeshy-%23E4405F?style=plastic&logo=Instagram&logoColor=white&link=https://www.instagram.com/imanhedeshy/)](https://www.instagram.com/imanhedeshy/)
+[![Twitter: hedeshy](https://img.shields.io/badge/-hedeshy-%231DA1F2?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/hedeshy)](https://twitter.com/hedeshy)
+[![Facebook: ihedeshy](https://img.shields.io/badge/-ihedeshy-%231877F2?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/ihedeshy)](https://www.facebook.com/ihedeshy)
+[![Medium: imanhedeshy](https://img.shields.io/badge/-imanhedeshy-black?style=plastic&logo=Medium&logoColor=white&link=https://medium.com/@imanhedeshy)](https://medium.com/@imanhedeshy)
 
 ## 🚀 About Me
 
