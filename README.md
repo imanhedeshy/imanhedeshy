@@ -9,8 +9,8 @@
 [![Stack Overflow: imanhedeshy](https://img.shields.io/badge/-ImanHedeshy-FE7A16?style=flat-square&logo=Stack-Overflow&logoColor=white&link=https://stackoverflow.com/users/5136010/iman-hedeshy)](https://stackoverflow.com/users/5136010/iman-hedeshy) 
 [![Medium: imanhedeshy](https://img.shields.io/badge/-imanhedeshy-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@imanhedeshy)](https://medium.com/@imanhedeshy) 
 [![Dev.to: imanhedeshy](https://img.shields.io/badge/-imanhedeshy-0A0A0A?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/imanhedeshy)](https://dev.to/imanhedeshy) 
-[![Hashnode: imanhedeshy](https://img.shields.io/badge/-imanhedeshy-2962FF?style=flat-square&logo=hashnode&logoColor=white&link=https://hashnode.com/@imanhedeshy)](https://hashnode.com/@imanhedeshy) 
-[![Reddit: PSTCHOX](https://img.shields.io/badge/-PSTCHOX-FF4500?style=flat-square&logo=Reddit&logoColor=white&link=https://www.reddit.com/user/PSTCHOX/)](https://www.reddit.com/user/PSTCHOX/)
+// [![Hashnode: imanhedeshy](https://img.shields.io/badge/-imanhedeshy-2962FF?style=flat-square&logo=hashnode&logoColor=white&link=https://hashnode.com/@imanhedeshy)](https://hashnode.com/@imanhedeshy) 
+// [![Reddit: PSTCHOX](https://img.shields.io/badge/-PSTCHOX-FF4500?style=flat-square&logo=Reddit&logoColor=white&link=https://www.reddit.com/user/PSTCHOX/)](https://www.reddit.com/user/PSTCHOX/)
 
 ## 🚀 About Me
 
