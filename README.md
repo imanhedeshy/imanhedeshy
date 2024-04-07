@@ -33,7 +33,7 @@ Driven by a relentless work ethic and a dedication to operational excellence, I'
 
 ## :page_facing_up: Resume
 
-For a detailed look at my education, skills, and work experience, feel free to check out my [resume](assets/iman-hedeshy-resume.docx).
+For a detailed look at my education, skills, and work experience, feel free to check out my [resume](assets/iman-hedeshy.pdf).
 
 ## :hammer_and_wrench: Technologies and Tools
 
