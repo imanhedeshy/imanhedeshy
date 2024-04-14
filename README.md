@@ -18,7 +18,12 @@ Hi there! I'm Iman, a Software Engineer with a strong foundation in computer eng
 I'm currently enhancing healthcare diagnostics at Adomo Health in New York and developing scalable web solutions at Ada Tech in Toronto. As a dedicated software engineer, I leverage a wide range of technologies to ensure feasibility, scalability, integrity, and security.
 
 Driven by a relentless work ethic and a dedication to operational excellence, I've played pivotal roles in transforming startup ventures into industry leaders, notably contributing to Snapp's growth to become the biggest tech company in the Middle East.
-[Follow me on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=imanhedeshy)
+
+<a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=imanhedeshy" 
+   target="_blank" 
+   style="display: inline-block; padding: 10px 20px; text-align: center; background-color: #0A66C2; color: white; border-radius: 5px; text-decoration: none;">
+  Follow on LinkedIn
+</a>
 
 ## :muscle: Core Strengths
 
