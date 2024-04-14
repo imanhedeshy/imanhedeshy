@@ -19,7 +19,7 @@ I'm currently enhancing healthcare diagnostics at Adomo Health in New York and d
 
 Driven by a relentless work ethic and a dedication to operational excellence, I've played pivotal roles in transforming startup ventures into industry leaders, notably contributing to Snapp's growth to become the biggest tech company in the Middle East.
 
-[![Follow on LinkedIn](https://github.com/imanhedeshy/linkedin-follow-button.png)](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=imanhedeshy)
+[![Follow on LinkedIn](https://github.com/imanhedeshy/imanhedeshy/blob/main/linkedin-follow-button.png)](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=imanhedeshy)
 
 ## :muscle: Core Strengths
 
