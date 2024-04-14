@@ -1,4 +1,7 @@
 # Iman Hedeshy :man_technologist:
+<a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=imanhedeshy">
+  <img src="https://github.com/imanhedeshy/imanhedeshy/blob/main/linkedin-follow-button.png" width="160">
+</a>
 
 [![Website: hedeshy.ca](https://img.shields.io/badge/Website-hedeshy.ca-brightgreen?style=flat-square)](https://hedeshy.ca) 
 [![Linkedin: imanhedeshy](https://img.shields.io/badge/-ImanHedeshy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imanhedeshy/)](https://www.linkedin.com/in/imanhedeshy/) 
@@ -18,10 +21,6 @@ Hi there! I'm Iman, a Software Engineer with a strong foundation in computer eng
 I'm currently enhancing healthcare diagnostics at Adomo Health in New York and developing scalable web solutions at Ada Tech in Toronto. As a dedicated software engineer, I leverage a wide range of technologies to ensure feasibility, scalability, integrity, and security.
 
 Driven by a relentless work ethic and a dedication to operational excellence, I've played pivotal roles in transforming startup ventures into industry leaders, notably contributing to Snapp's growth to become the biggest tech company in the Middle East.
-
-<a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=imanhedeshy">
-  <img src="https://github.com/imanhedeshy/imanhedeshy/blob/main/linkedin-follow-button.png" width="160">
-</a>
 
 ## :muscle: Core Strengths
 
