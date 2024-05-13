@@ -38,7 +38,7 @@ Driven by a relentless work ethic and a dedication to operational excellence, I'
 
 For a detailed look at my education, skills, and work experience, feel free to check out my [resume](assets/iman-hedeshy.pdf).
 
-## :hammer_and_wrench: Technologies and Tools
+## :hammer_and_wrench: Technologies and Tools 
 
 - **Languages:** JavaScript (OOP, ES6+), TypeScript, Python, Go
 - **Frontend:** React, React Native, Next.js, HTML5, CSS3, SASS, Redux, MaterialUI (MUI), Bootstrap, TailwindCSS
