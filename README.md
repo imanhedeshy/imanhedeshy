@@ -12,9 +12,6 @@
 [![Reddit: PSTCHOX](https://img.shields.io/badge/-PSTCHOX-FF4500?style=flat-square&logo=Reddit&logoColor=white&link=https://www.reddit.com/user/PSTCHOX/)](https://www.reddit.com/user/PSTCHOX/)-->
 
 ## 🚀 About Me
-<a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=imanhedeshy">
-  <img src="https://github.com/imanhedeshy/imanhedeshy/blob/main/linkedin-follow-button.png" width="160">
-</a>
 
 Hi there! I'm Iman, a Software Engineer with a strong foundation in computer engineering, project management, and leading cross-functional teams. I'm skilled in a wide range of technologies including HTML, CSS, TypeScript, React, Node.js, Express, MySQL, APIs, AWS, Git, and many more. I'm committed to driving innovation and achieving exceptional outcomes in the tech industry.
 
