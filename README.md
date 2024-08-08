@@ -194,37 +194,37 @@ For a detailed look at my education, skills, and work experience, feel free to c
     <tr style="border-bottom: 1px solid #30363d;">
       <td style="padding: 10px 20px; display: flex; align-items: center;">
         <img src="https://img.icons8.com/color/48/000000/star.png" alt="Stars" width="24" style="margin-right: 8px;"/> 
-        <span style="vertical-align: middle;">Total Stars Earned:</span>
+        <span>Total Stars Earned:</span>
       </td>
-      <td style="padding: 10px 20px; text-align: right;"> <!--totalStars-->49<!--/totalStars--> </td>
+      <td style="padding: 10px 20px; text-align: right; display: flex; align-items: center; justify-content: flex-end;"> <!--totalStars-->49<!--/totalStars--> </td>
     </tr>
     <tr style="border-bottom: 1px solid #30363d;">
       <td style="padding: 10px 20px; display: flex; align-items: center;">
         <img src="https://img.icons8.com/color/48/000000/source-code.png" alt="Commits" width="24" style="margin-right: 8px;"/> 
-        <span style="vertical-align: middle;">Total Commits:</span>
+        <span>Total Commits:</span>
       </td>
-      <td style="padding: 10px 20px; text-align: right;"> <!--totalCommits-->1,371<!--/totalCommits--> </td>
+      <td style="padding: 10px 20px; text-align: right; display: flex; align-items: center; justify-content: flex-end;"> <!--totalCommits-->1,371<!--/totalCommits--> </td>
     </tr>
     <tr style="border-bottom: 1px solid #30363d;">
       <td style="padding: 10px 20px; display: flex; align-items: center;">
         <img src="https://img.icons8.com/color/48/000000/pull-request.png" alt="PRs" width="24" style="margin-right: 8px;"/> 
-        <span style="vertical-align: middle;">Total PRs:</span>
+        <span>Total PRs:</span>
       </td>
-      <td style="padding: 10px 20px; text-align: right;"> <!--totalPRs-->29<!--/totalPRs--> </td>
+      <td style="padding: 10px 20px; text-align: right; display: flex; align-items: center; justify-content: flex-end;"> <!--totalPRs-->29<!--/totalPRs--> </td>
     </tr>
     <tr style="border-bottom: 1px solid #30363d;">
       <td style="padding: 10px 20px; display: flex; align-items: center;">
         <img src="https://img.icons8.com/color/48/000000/error.png" alt="Issues" width="24" style="margin-right: 8px;"/> 
-        <span style="vertical-align: middle;">Total Issues:</span>
+        <span>Total Issues:</span>
       </td>
-      <td style="padding: 10px 20px; text-align: right;"> <!--totalIssues-->17<!--/totalIssues--> </td>
+      <td style="padding: 10px 20px; text-align: right; display: flex; align-items: center; justify-content: flex-end;"> <!--totalIssues-->17<!--/totalIssues--> </td>
     </tr>
     <tr>
       <td style="padding: 10px 20px; display: flex; align-items: center;">
         <img src="https://img.icons8.com/color/48/000000/conference-call.png" alt="Contributions" width="24" style="margin-right: 8px;"/> 
-        <span style="vertical-align: middle;">Contributed to (last year):</span>
+        <span>Contributed to (last year):</span>
       </td>
-      <td style="padding: 10px 20px; text-align: right;"> <!--totalContributions-->733<!--/totalContributions--> </td>
+      <td style="padding: 10px 20px; text-align: right; display: flex; align-items: center; justify-content: flex-end;"> <!--totalContributions-->733<!--/totalContributions--> </td>
     </tr>
   </table>
   <div style="margin-top: 10px; display: flex; align-items: center;">
