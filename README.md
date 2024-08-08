@@ -192,28 +192,38 @@ For a detailed look at my education, skills, and work experience, feel free to c
   <h3 style="color: #ff69b4;">Iman Hedeshy's GitHub Stats</h3>
   <table style="border-collapse: collapse; width: 100%;">
     <tr style="border-bottom: 1px solid #30363d;">
-      <td style="padding: 10px 20px;"><img src="https://img.icons8.com/color/48/000000/star.png" alt="Stars" width="24"/> Total Stars Earned:</td>
+      <td style="padding: 10px 20px; display: flex; align-items: center;">
+        <img src="https://img.icons8.com/color/48/000000/star.png" alt="Stars" width="24" style="margin-right: 8px;"/> Total Stars Earned:
+      </td>
       <td style="padding: 10px 20px; text-align: right;"> <!--totalStars-->49<!--/totalStars--> </td>
     </tr>
     <tr style="border-bottom: 1px solid #30363d;">
-      <td style="padding: 10px 20px;"><img src="https://img.icons8.com/color/48/000000/source-code.png" alt="Commits" width="24"/> Total Commits:</td>
+      <td style="padding: 10px 20px; display: flex; align-items: center;">
+        <img src="https://img.icons8.com/color/48/000000/source-code.png" alt="Commits" width="24" style="margin-right: 8px;"/> Total Commits:
+      </td>
       <td style="padding: 10px 20px; text-align: right;"> <!--totalCommits-->1,371<!--/totalCommits--> </td>
     </tr>
     <tr style="border-bottom: 1px solid #30363d;">
-      <td style="padding: 10px 20px;"><img src="https://img.icons8.com/color/48/000000/git-pull-request.png" alt="PRs" width="24"/> Total PRs:</td>
+      <td style="padding: 10px 20px; display: flex; align-items: center;">
+        <img src="https://img.icons8.com/color/48/000000/git-pull-request.png" alt="PRs" width="24" style="margin-right: 8px;"/> Total PRs:
+      </td>
       <td style="padding: 10px 20px; text-align: right;"> <!--totalPRs-->29<!--/totalPRs--> </td>
     </tr>
     <tr style="border-bottom: 1px solid #30363d;">
-      <td style="padding: 10px 20px;"><img src="https://img.icons8.com/color/48/000000/error.png" alt="Issues" width="24"/> Total Issues:</td>
+      <td style="padding: 10px 20px; display: flex; align-items: center;">
+        <img src="https://img.icons8.com/color/48/000000/error.png" alt="Issues" width="24" style="margin-right: 8px;"/> Total Issues:
+      </td>
       <td style="padding: 10px 20px; text-align: right;"> <!--totalIssues-->17<!--/totalIssues--> </td>
     </tr>
     <tr>
-      <td style="padding: 10px 20px;"><img src="https://img.icons8.com/color/48/000000/conference-call.png" alt="Contributions" width="24"/> Contributed to (last year):</td>
+      <td style="padding: 10px 20px; display: flex; align-items: center;">
+        <img src="https://img.icons8.com/color/48/000000/conference-call.png" alt="Contributions" width="24" style="margin-right: 8px;"/> Contributed to (last year):
+      </td>
       <td style="padding: 10px 20px; text-align: right;"> <!--totalContributions-->733<!--/totalContributions--> </td>
     </tr>
   </table>
-  <div style="margin-top: 10px;">
-    <img src="https://img.icons8.com/color/48/000000/rating.png" alt="Grade" width="48"/>
+  <div style="margin-top: 10px; display: flex; align-items: center;">
+    <img src="https://img.icons8.com/color/48/000000/rating.png" alt="Grade" width="48" style="margin-right: 8px;"/>
     <span style="color: #ff69b4; font-size: 24px;">A+</span>
   </div>
 </div>
