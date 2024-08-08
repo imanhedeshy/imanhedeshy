@@ -213,7 +213,7 @@ For a detailed look at my education, skills, and work experience, feel free to c
     </tr>
   </table>
   <div style="margin-top: 10px;">
-    <img src="https://img.icons8.com/color/48/000000/scorecard.png" alt="Grade" width="48"/>
+    <img src="https://img.icons8.com/color/48/000000/rating.png" alt="Grade" width="48"/>
     <span style="color: #ff69b4; font-size: 24px;">A+</span>
   </div>
 </div>
