@@ -193,31 +193,36 @@ For a detailed look at my education, skills, and work experience, feel free to c
   <table style="border-collapse: collapse; width: 100%;">
     <tr style="border-bottom: 1px solid #30363d;">
       <td style="padding: 10px 20px; display: flex; align-items: center;">
-        <img src="https://img.icons8.com/color/48/000000/star.png" alt="Stars" width="24" style="margin-right: 8px;"/> Total Stars Earned:
+        <img src="https://img.icons8.com/color/48/000000/star.png" alt="Stars" width="24" style="margin-right: 8px;"/> 
+        <span style="vertical-align: middle;">Total Stars Earned:</span>
       </td>
       <td style="padding: 10px 20px; text-align: right;"> <!--totalStars-->49<!--/totalStars--> </td>
     </tr>
     <tr style="border-bottom: 1px solid #30363d;">
       <td style="padding: 10px 20px; display: flex; align-items: center;">
-        <img src="https://img.icons8.com/color/48/000000/source-code.png" alt="Commits" width="24" style="margin-right: 8px;"/> Total Commits:
+        <img src="https://img.icons8.com/color/48/000000/source-code.png" alt="Commits" width="24" style="margin-right: 8px;"/> 
+        <span style="vertical-align: middle;">Total Commits:</span>
       </td>
       <td style="padding: 10px 20px; text-align: right;"> <!--totalCommits-->1,371<!--/totalCommits--> </td>
     </tr>
     <tr style="border-bottom: 1px solid #30363d;">
       <td style="padding: 10px 20px; display: flex; align-items: center;">
-        <img src="https://img.icons8.com/color/48/000000/pull-request.png" alt="PRs" width="24" style="margin-right: 8px;"/> Total PRs:
+        <img src="https://img.icons8.com/color/48/000000/pull-request.png" alt="PRs" width="24" style="margin-right: 8px;"/> 
+        <span style="vertical-align: middle;">Total PRs:</span>
       </td>
       <td style="padding: 10px 20px; text-align: right;"> <!--totalPRs-->29<!--/totalPRs--> </td>
     </tr>
     <tr style="border-bottom: 1px solid #30363d;">
       <td style="padding: 10px 20px; display: flex; align-items: center;">
-        <img src="https://img.icons8.com/color/48/000000/error.png" alt="Issues" width="24" style="margin-right: 8px;"/> Total Issues:
+        <img src="https://img.icons8.com/color/48/000000/error.png" alt="Issues" width="24" style="margin-right: 8px;"/> 
+        <span style="vertical-align: middle;">Total Issues:</span>
       </td>
       <td style="padding: 10px 20px; text-align: right;"> <!--totalIssues-->17<!--/totalIssues--> </td>
     </tr>
     <tr>
       <td style="padding: 10px 20px; display: flex; align-items: center;">
-        <img src="https://img.icons8.com/color/48/000000/conference-call.png" alt="Contributions" width="24" style="margin-right: 8px;"/> Contributed to (last year):
+        <img src="https://img.icons8.com/color/48/000000/conference-call.png" alt="Contributions" width="24" style="margin-right: 8px;"/> 
+        <span style="vertical-align: middle;">Contributed to (last year):</span>
       </td>
       <td style="padding: 10px 20px; text-align: right;"> <!--totalContributions-->733<!--/totalContributions--> </td>
     </tr>
