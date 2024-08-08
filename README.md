@@ -221,15 +221,15 @@ For a detailed look at my education, skills, and work experience, feel free to c
     </tr>
     <tr>
       <td style="padding: 10px 20px; display: flex; align-items: center;">
-        <img src="https://img.icons8.com/color/48/000000/conference-call.png" alt="Contributions" width="24" style="margin-right: 8px;"/> 
-        <span>Contributed to (last year):</span>
+        <img src="https://img.icons8.com/color/48/000000/conference-call.png" alt="Contributions" width="24" style="margin-right: 8px; display: flex; align-items: center;"/> 
+        <span style="padding: 10px 20px; display: flex; align-items: center;">Contributed to (last year):</span>
       </td>
       <td style="padding: 10px 20px; text-align: right; display: flex; align-items: center; justify-content: flex-end;"> <!--totalContributions-->733<!--/totalContributions--> </td>
     </tr>
   </table>
   <div style="margin-top: 10px; display: flex; align-items: center;">
     <img src="https://img.icons8.com/color/48/000000/rating.png" alt="Grade" width="48" style="margin-right: 8px;"/>
-    <span style="color: #ff69b4; font-size: 24px;">A+</span>
+    <span style="color: #ff69b4; font-size: 24px;"></span>
   </div>
 </div>
 
