@@ -19,6 +19,8 @@ I'm currently enhancing healthcare diagnostics at Adomo Health in New York and d
 
 Driven by a relentless work ethic and a dedication to operational excellence, I've played pivotal roles in transforming startup ventures into industry leaders, notably contributing to Snapp's growth to become the biggest tech company in the Middle East.
 
+As a key player in the tech industry, I've been instrumental in scaling operations at Snapp from a small startup to a major unicorn. My expertise in data-driven decision-making and agile practices has been pivotal in achieving and maintaining this growth trajectory. At Adomo Health and Ada Tech, I continue to drive innovation in healthcare and web solutions, ensuring scalability, security, and exceptional performance.
+
 ## :muscle: Core Strengths
 
 - **Relentless Work Ethic:** Known for an extraordinary commitment to my work, tirelessly striving for excellence.
@@ -30,6 +32,9 @@ Driven by a relentless work ethic and a dedication to operational excellence, I'
 - **Adaptability:** Swiftly adapt to new technologies and changing business environments.
 - **Problem Solving:** Expertise in diagnosing issues and implementing effective solutions swiftly.
 - **Communication:** Strong ability to communicate complex technical concepts to non-technical stakeholders.
+- **Data-Driven Decision Making:** Leveraging data analytics for strategic planning and operational optimization.
+- **Innovation Catalyst:** Continuously driving and fostering innovation within cross-functional teams.
+
 
 ## :page_facing_up: Resume
 
@@ -42,7 +47,7 @@ For a detailed look at my education, skills, and work experience, feel free to c
 - **Backend:** Node.js, Express.js, Flask, Server-side JavaScript
 - **Database:** MySQL, MongoDB, PostgreSQL
 - **Cloud & Hosting:** AWS (EC2, ECS, S3), Vercel, Heroku, Netlify
-- **Testing:** React Testing, Jest, React Testing Library
+- **Testing:** React Testing, Jest, React Testing Library, Cypress, Storybook
 - **Version Control:** Git, GitHub, Git Flow, Pull Requests, Code Reviews
 - **API Design & Testing:** RESTful APIs, GraphQL, Postman, API Documentation and Blueprint
 - **Design & Prototyping:** Figma, Sketch
@@ -169,6 +174,9 @@ For a detailed look at my education, skills, and work experience, feel free to c
 
 ## :seedling: Recent Projects
 
+- [**OrderForm App**](https://github.com/imanhedeshy/order-form-client-app) - Developed a Next.js application for Adomo Health, replacing a Google Form with a scalable, responsive web form.
+- [**Serverless Helper/Middleware Server**](https://github.com/imanhedeshy/serverless-helper-middleware) - Created a serverless Express server for API routes and middleware, utilizing AWS Lambda, API Gateway, and CloudFront.
+- [**InStock**](https://github.com/imanhedeshy/instock) - Led development of an inventory management system using React, Node, Express, and MySQL, focusing on Agile and Scrum methodologies.
 - [**TheBOX! (Bridge Of eXperience)**](https://github.com/imanhedeshy/the-box-client.git) - Full-stack social networking/educational app enhancing collaborative engagement.
 - ![Winner](https://img.shields.io/badge/-Winner-FFD700?style=flat-square&logo=trophy&logoColor=white) [**PrivacyVault**](https://github.com/imanhedeshy/triton-secutiry-solution.git) - Privacy app safeguarding user data, crafted in a 24-hour hackathon challenged by Microsoft. (Which our Team was the WINNER! 🏆)
 
@@ -179,6 +187,8 @@ For a detailed look at my education, skills, and work experience, feel free to c
 <!-- ## :chart_with_upwards_trend: GitHub Stats -->
 
 ## :octocat: GitHub Statistics
+
+![Iman Hedeshy's GitHub stats](https://github-readme-stats.vercel.app/api?username=imanhedeshy&show_icons=true&theme=radical)
 
 <div align="center">
   
@@ -193,7 +203,7 @@ Feel free to explore my repositories and don't hesitate to contribute or give fe
 ## :mailbox: Contact Me
 
 - Email: [iman@hedeshy.ca](mailto:iman@hedeshy.ca)
-- Skype: iman.hedeshy
+- LinkedIn: [Iman Hedeshy](https://www.linkedin.com/in/imanhedeshy/)
 - Phone: [+1 416 939 4969](tel:+14169394969)
 - Slack: Use email [iman.hedeshy@gmail.com](mailto:iman.hedeshy@gmail.com)
 - BrainStation Graduate Page: [Software Engineering Graduates](https://brainstation.io/hiring-brainstation-graduates)
