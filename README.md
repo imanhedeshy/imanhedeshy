@@ -205,7 +205,7 @@ For a detailed look at my education, skills, and work experience, feel free to c
     </tr>
     <tr style="border-bottom: 1px solid #30363d;">
       <td style="padding: 10px 20px; display: flex; align-items: center;">
-        <img src="https://img.icons8.com/color/48/000000/git-pull-request.png" alt="PRs" width="24" style="margin-right: 8px;"/> Total PRs:
+        <img src="https://img.icons8.com/color/48/000000/pull-request.png" alt="PRs" width="24" style="margin-right: 8px;"/> Total PRs:
       </td>
       <td style="padding: 10px 20px; text-align: right;"> <!--totalPRs-->29<!--/totalPRs--> </td>
     </tr>
