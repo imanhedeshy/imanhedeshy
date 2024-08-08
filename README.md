@@ -193,23 +193,23 @@ For a detailed look at my education, skills, and work experience, feel free to c
   <table style="border-collapse: collapse; width: 100%;">
     <tr style="border-bottom: 1px solid #555;">
       <td style="padding: 10px 20px;"><img src="https://img.icons8.com/fluency/48/000000/star.png" alt="Stars" width="24"/> Total Stars Earned:</td>
-      <td style="padding: 10px 20px; text-align: right;"> <!--totalStars-->23<!--/totalStars--> </td>
+      <td style="padding: 10px 20px; text-align: right;"> <!--totalStars-->49<!--/totalStars--> </td>
     </tr>
     <tr style="border-bottom: 1px solid #555;">
-      <td style="padding: 10px 20px;"><img src="https://img.icons8.com/fluency/48/000000/merge-git.png" alt="Commits" width="24"/> Total Commits (2024):</td>
-      <td style="padding: 10px 20px; text-align: right;"> <!--totalCommits-->341<!--/totalCommits--> </td>
+      <td style="padding: 10px 20px;"><img src="https://img.icons8.com/fluency/48/000000/merge-git.png" alt="Commits" width="24"/> Total Commits:</td>
+      <td style="padding: 10px 20px; text-align: right;"> <!--totalCommits-->1,371<!--/totalCommits--> </td>
     </tr>
     <tr style="border-bottom: 1px solid #555;">
       <td style="padding: 10px 20px;"><img src="https://img.icons8.com/fluency/48/000000/git-pull-request.png" alt="PRs" width="24"/> Total PRs:</td>
-      <td style="padding: 10px 20px; text-align: right;"> <!--totalPRs-->2<!--/totalPRs--> </td>
+      <td style="padding: 10px 20px; text-align: right;"> <!--totalPRs-->29<!--/totalPRs--> </td>
     </tr>
     <tr style="border-bottom: 1px solid #555;">
       <td style="padding: 10px 20px;"><img src="https://img.icons8.com/fluency/48/000000/error.png" alt="Issues" width="24"/> Total Issues:</td>
-      <td style="padding: 10px 20px; text-align: right;"> <!--totalIssues-->0<!--/totalIssues--> </td>
+      <td style="padding: 10px 20px; text-align: right;"> <!--totalIssues-->17<!--/totalIssues--> </td>
     </tr>
     <tr>
       <td style="padding: 10px 20px;"><img src="https://img.icons8.com/fluency/48/000000/activity-history.png" alt="Contributions" width="24"/> Contributed to (last year):</td>
-      <td style="padding: 10px 20px; text-align: right;"> <!--totalContributions-->1<!--/totalContributions--> </td>
+      <td style="padding: 10px 20px; text-align: right;"> <!--totalContributions-->733<!--/totalContributions--> </td>
     </tr>
   </table>
   <div style="margin-top: 10px;">
