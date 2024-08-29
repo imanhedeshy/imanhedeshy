@@ -43,19 +43,21 @@ For a detailed look at my education, skills, and work experience, feel free to c
 ## :hammer_and_wrench: Technologies and Tools 
 
 - **Languages:** JavaScript (OOP, ES6+), TypeScript, Python, Go
-- **Frontend:** React, React Native, Next.js, HTML5, CSS3, SASS, Redux, MaterialUI (MUI), Bootstrap, TailwindCSS
-- **Backend:** Node.js, Express.js, Flask, Server-side JavaScript
+- **Frontend:** React, React Native, Next.js, HTML5, CSS3, SASS, Redux, MaterialUI (MUI), Bootstrap, TailwindCSS, Emotion, React Hook Form
+- **Backend:** Node.js, Express.js, Flask, Server-side JavaScript, Prisma, GraphQL, Apollo, Redis
 - **Database:** MySQL, MongoDB, PostgreSQL
-- **Cloud & Hosting:** AWS (EC2, ECS, S3), Vercel, Heroku, Netlify
-- **Testing:** React Testing, Jest, React Testing Library, Cypress, Storybook
-- **Version Control:** Git, GitHub, Git Flow, Pull Requests, Code Reviews
+- **Cloud & Hosting:** AWS, Vercel, Heroku, Netlify, Serverless, Zapier
+- **Testing:** React Testing, Jest, React Testing Library, Cypress, Storybook, SWR, ESLint, Prettier, Cypress, Error Boundary
+- **Version Control:** Git, GitHub, Git Flow, Pull Requests, Code Reviews, Husky
 - **API Design & Testing:** RESTful APIs, GraphQL, Postman, API Documentation and Blueprint
 - **Design & Prototyping:** Figma, Sketch
+- **Security & Authentication:** Auth0, Passport.js, Helmet, dotenv
+- **Monitoring & Logging:** Sentry, LogRocket, memjs
 - **Package Managers:** NPM, yarn, pip, brew
-- **Libraries & Frameworks:** Axios, Socket.io, Passport.js, Lodash, React Router, Knex.js, Mongoose, yup, formik
+- **Libraries & Frameworks:** Axios, Socket.io, Lodash, React Router, Knex.js, Mongoose, yup, formik
 - **Desktop Application Frameworks:** Electron
 - **Programming Paradigms:** Strong understanding of Object-Oriented Programming (OOP) concepts and their application in software development.
-- **Others:** Agile Methodologies, Scrum Practices, Security and Privacy Strategies, Microservices Architecture; comfortable with various command-line interfaces (Zsh, Bash, PowerShell, CMD, Windows Terminal); understanding of API Design Principles and Performance Optimization; familiar with the concept of CDNs for optimized content delivery; aware of web accessibility standards (WCAG) and the importance of creating responsive, device-agnostic interfaces; knowledge of Internationalization and Localization for adapting applications globally; Notion, Lucidchart, Cybersecurity Tools, System Deployment.
+- **Others:** Agile Methodologies, Scrum Practices, Microservices Architecture; comfortable with various command-line interfaces (Zsh, Bash, PowerShell, CMD, Windows Terminal); understanding of API Design Principles and Performance Optimization; familiar with the concept of CDNs for optimized content delivery; aware of web accessibility standards (WCAG) and the importance of creating responsive, device-agnostic interfaces; knowledge of Internationalization and Localization for adapting applications globally; Notion, Lucidchart, Cybersecurity Tools, System Deployment, Nodemon, Webpack, Babel, Cross-env, Autoprefixer, PostCSS, `.hintrc`, i18next.
 
 - ## :cloud::lock: Cloud Computing and Cybersecurity
 
