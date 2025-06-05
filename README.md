@@ -306,5 +306,5 @@ Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/imanhedeshy/) i
   <img src="./assets/qr-code.png" alt="QR Code" width="192px"/>
 </p>
 
-[![Iman's GitHub Streak](https://streak-stats.demolab.com/?user=imanhedeshy&theme=radical)](https://git.io/streak-stats)
+<!-- [![Iman's GitHub Streak](https://streak-stats.demolab.com/?user=imanhedeshy&theme=radical)](https://git.io/streak-stats)
 [![Iman's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=imanhedeshy&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
