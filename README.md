@@ -13,13 +13,16 @@
 
 ## 🚀 About Me
 
-Hi there! I'm Iman, a Software Engineer with a strong foundation in computer engineering, project management, and leading cross-functional teams. I'm skilled in a wide range of technologies including HTML, CSS, TypeScript, React, Node.js, Express, MySQL, APIs, AWS, Git, and many more. I'm committed to driving innovation and achieving exceptional outcomes in the tech industry.
+Hi there! I’m Iman, a Software Engineer specializing in building scalable, cloud-native platforms and AI-powered applications.
 
-I'm currently enhancing healthcare diagnostics at Adomo Health in New York and developing scalable web solutions at Ada Tech in Toronto. As a dedicated software engineer, I leverage a wide range of technologies to ensure feasibility, scalability, integrity, and security.
+I’m currently a Founding Engineer at GoAudience, where I lead architecture and development of a real-time audience intelligence platform — architecting vector search pipelines, OpenAI-based data enrichment workflows, and scalable microservices on AWS and GCP.
 
-Driven by a relentless work ethic and a dedication to operational excellence, I've played pivotal roles in transforming startup ventures into industry leaders, notably contributing to Snapp's growth to become the biggest tech company in the Middle East.
+My background blends full-stack web and mobile development (React, Node.js, Python, Go) with a strong focus on cybersecurity (HIPAA compliance) and cloud infrastructure (AWS Solutions Architect, GCP). I’ve helped scale healthtech solutions at PathSpot and Adomo Health, and built award-winning privacy applications, like PrivacyVault (1st place, Microsoft Hackathon).
 
-As a key player in the tech industry, I've been instrumental in scaling operations at Snapp from a small startup to a major unicorn. My expertise in data-driven decision-making and agile practices has been pivotal in achieving and maintaining this growth trajectory. At Adomo Health and Ada Tech, I continue to drive innovation in healthcare and web solutions, ensuring scalability, security, and exceptional performance.
+Passionate about clean code, security-first development, and shipping impactful software fast. Let’s build something great!
+
+**Current Focus:** Building AI-powered platforms leveraging OpenAI APIs, Vector Search (Pinecone, pgvector), Retrieval-Augmented Generation (RAG) pipelines, and secure LLM deployments.
+![AI/ML Engineer](https://img.shields.io/badge/AI%2FML-Engineer-blueviolet?style=for-the-badge&logo=openai&logoColor=white)
 
 ## :muscle: Core Strengths
 
@@ -43,15 +46,16 @@ For a detailed look at my education, skills, and work experience, feel free to c
 ## :hammer_and_wrench: Technologies and Tools 
 
 - **Languages:** JavaScript (OOP, ES6+), TypeScript, Python, Go
-- **Frontend:** React, React Native, Next.js, HTML5, CSS3, SASS, Redux, MaterialUI (MUI), Bootstrap, TailwindCSS, Emotion, React Hook Form
+- **Frontend:** React, React Native, Next.js, HTML5, CSS3, SASS, Redux Toolkit, MaterialUI (MUI), Bootstrap, TailwindCSS, Emotion, React Hook Form
 - **Backend:** Node.js, Express.js, Flask, Server-side JavaScript, Prisma, GraphQL, Apollo, Redis
-- **Database:** MySQL, MongoDB, PostgreSQL
-- **Cloud & Hosting:** AWS, Vercel, Heroku, Netlify, Serverless, Zapier
+- **Databases:** PostgreSQL, MySQL, MongoDB, Pinecone, pgvector
+- **AI/ML:** OpenAI API, Vector Search (Pinecone, pgvector), LangChain, Hugging Face Transformers, LLamaIndex, Sentence Transformers, FastAPI, Pydantic, GPU-Aware Deployment, Promt Engineering
+- **Cloud & DevOps:** AWS, GCP, Azure, Vercel, Heroku, Netlify, Docker, Kubernetes, Serverless Framework, Zapier
 - **Testing:** React Testing, Jest, React Testing Library, Cypress, Storybook, SWR, ESLint, Prettier, Cypress, Error Boundary
 - **Version Control:** Git, GitHub, Git Flow, Pull Requests, Code Reviews, Husky
 - **API Design & Testing:** RESTful APIs, GraphQL, Postman, API Documentation and Blueprint
 - **Design & Prototyping:** Figma, Sketch
-- **Security & Authentication:** Auth0, Passport.js, Helmet, dotenv
+- **Security & Authentication:** Auth0, Passport.js, Helmet, dotenv, HIPAA/PHIPA Compliance, Cybersecurity (BrainStation, ISC2 CC)
 - **Monitoring & Logging:** Sentry, LogRocket, memjs
 - **Package Managers:** NPM, yarn, pip, brew
 - **Libraries & Frameworks:** Axios, Socket.io, Lodash, React Router, Knex.js, Mongoose, yup, formik
@@ -243,11 +247,12 @@ Feel free to explore my repositories and don't hesitate to contribute or give fe
 - Email: [iman@hedeshy.ca](mailto:iman@hedeshy.ca)
 - LinkedIn: [Iman Hedeshy](https://www.linkedin.com/in/imanhedeshy/)
 - Phone: [+1 416 939 4969](tel:+14169394969)
-- Slack: Use email [iman.hedeshy@gmail.com](mailto:iman.hedeshy@gmail.com)
-- BrainStation Graduate Page: [Software Engineering Graduates](https://brainstation.io/hiring-brainstation-graduates)
 
 Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/imanhedeshy/) if you wish to get in touch or collaborate on a project. Happy coding!
 <br>
 <p align="center">
   <img src="./assets/qr-code.png" alt="QR Code" width="192px"/>
 </p>
+
+[![Iman's GitHub Streak](https://streak-stats.demolab.com/?user=imanhedeshy&theme=radical)](https://git.io/streak-stats)
+[![Iman's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=imanhedeshy&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
