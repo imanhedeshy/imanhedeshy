@@ -99,6 +99,29 @@ For a detailed look at my education, skills, and work experience, feel free to c
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
   </br></br>
+  <!-- AI / ML / LLM Stack -->
+  <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white">
+  <img alt="LangChain" src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=python&logoColor=white">
+  <img alt="Hugging Face" src="https://img.shields.io/badge/Hugging_Face-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black">
+  <img alt="LLamaIndex" src="https://img.shields.io/badge/LLamaIndex-6200EE?style=for-the-badge&logo=python&logoColor=white">
+  <img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
+  <img alt="RAG Pipelines" src="https://img.shields.io/badge/RAG_Pipelines-673AB7?style=for-the-badge&logo=apachekafka&logoColor=white">
+  <img alt="Vector Search" src="https://img.shields.io/badge/Vector_Search-00ACC1?style=for-the-badge&logo=neo4j&logoColor=white">
+  <img alt="Prompt Engineering" src="https://img.shields.io/badge/Prompt_Engineering-FF5722?style=for-the-badge&logo=openai&logoColor=white">
+  <img alt="LLMOps" src="https://img.shields.io/badge/LLMOps-2E7D32?style=for-the-badge&logo=dvc&logoColor=white">
+  <img alt="Haystack" src="https://img.shields.io/badge/Haystack-FF6F00?style=for-the-badge&logo=haystack&logoColor=white">
+  <img alt="Ray Serve" src="https://img.shields.io/badge/Ray_Serve-76D04B?style=for-the-badge&logo=ray&logoColor=white">
+  <img alt="Weights & Biases" src="https://img.shields.io/badge/Weights_&_Biases-FFB300?style=for-the-badge&logo=wandb&logoColor=black">
+  <!-- Vector Databases -->
+  <img alt="Pinecone" src="https://img.shields.io/badge/Pinecone-00b2a9?style=for-the-badge&logo=pinecone&logoColor=white">
+  <img alt="Weaviate" src="https://img.shields.io/badge/Weaviate-6528F7?style=for-the-badge&logo=weaviate&logoColor=white">
+  <img alt="pgvector" src="https://img.shields.io/badge/pgvector-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   <!-- Styling -->
   <img alt="SASS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
   <img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white">
@@ -114,9 +137,20 @@ For a detailed look at my education, skills, and work experience, feel free to c
   </br></br>
   <!-- Hosting & Cloud Services -->
   <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+  <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+  <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
+  <img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
+  <img alt="Oracle Cloud" src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+  <img alt="IBM Cloud" src="https://img.shields.io/badge/IBM_Cloud-1261FE?style=for-the-badge&logo=ibm&logoColor=white">
+  <img alt="Cloud Architecture" src="https://img.shields.io/badge/Cloud_Architecture-007BFF?style=for-the-badge&logo=googlecloud&logoColor=white">
+  <img alt="Microservices" src="https://img.shields.io/badge/Microservices-009688?style=for-the-badge&logo=docker&logoColor=white">
+  <img alt="Serverless" src="https://img.shields.io/badge/Serverless-FF4C4C?style=for-the-badge&logo=serverless&logoColor=white">
   <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
   <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
+  <img alt="Terraform" src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white">
+  <img alt="Ansible" src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white">
+  <img alt="CloudFormation" src="https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=aws&logoColor=white">
   </br>
   <!-- Design -->
   <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
@@ -178,11 +212,23 @@ For a detailed look at my education, skills, and work experience, feel free to c
   </br>
   </br>
   <!-- Project Management -->
+  <img alt="Product Management" src="https://img.shields.io/badge/Product_Management-0052CC?style=for-the-badge&logo=producthunt&logoColor=white">
+  <img alt="Startup Founder" src="https://img.shields.io/badge/Startup_Founder-FF5722?style=for-the-badge&logo=launchpad&logoColor=white">
+  <img alt="Agile Scrum" src="https://img.shields.io/badge/Agile_Scrum-00BFFF?style=for-the-badge&logo=scrumalliance&logoColor=white">
+  <img alt="Lean Startup" src="https://img.shields.io/badge/Lean_Startup-3D3D3D?style=for-the-badge&logo=leanpub&logoColor=white">
   <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
   <img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
   <img alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
   <img alt="Lucidchart" src="https://img.shields.io/badge/Lucidchart-FDBB2D?style=for-the-badge&logo=lucidchart&logoColor=black">
   <img alt="Microsoft Project" src="https://img.shields.io/badge/Microsoft_Project-217346?style=for-the-badge&logo=microsoft&logoColor=white">
+  </br>
+  <!-- Compliance and Certifications -->
+  <img alt="HIPAA Compliance" src="https://img.shields.io/badge/HIPAA_Compliance-008080?style=for-the-badge&logo=hipaa&logoColor=white">
+  <img alt="PHIPA Compliance" src="https://img.shields.io/badge/PHIPA_Compliance-3366CC?style=for-the-badge&logo=law&logoColor=white">
+  <img alt="AWS Certified" src="https://img.shields.io/badge/AWS_Certified_SAA-C02-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
+  <img alt="ISC2 CC" src="https://img.shields.io/badge/ISC2_CC_Certified-3C3C3C?style=for-the-badge&logo=isc2&logoColor=white">  
+  <img alt="GCP Certified" src="https://img.shields.io/badge/GCP_Certified-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
+  <img alt="Azure Certified" src="https://img.shields.io/badge/Azure_Certified-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
 </p>
 
 ## :seedling: Recent Projects
