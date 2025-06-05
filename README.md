@@ -1,5 +1,8 @@
 # Iman Hedeshy :man_technologist:
 
+![AI/ML Engineer](https://img.shields.io/badge/AI%2FML-Engineer-blueviolet?style=for-the-badge&logo=openai&logoColor=white)
+![LLM Developer](https://img.shields.io/badge/LLM-Developer-blue?style=for-the-badge&logo=OpenAI)
+![LangChain](https://img.shields.io/badge/LangChain-Framework-informational?style=for-the-badge&logo=python&logoColor=white)
 [![Website: hedeshy.ca](https://img.shields.io/badge/Website-hedeshy.ca-brightgreen?style=flat-square)](https://hedeshy.ca) 
 [![Linkedin: imanhedeshy](https://img.shields.io/badge/-ImanHedeshy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imanhedeshy/)](https://www.linkedin.com/in/imanhedeshy/) 
 [![GitHub ImanHedeshy](https://img.shields.io/github/followers/imanhedeshy?label=follow&style=social)](https://github.com/imanhedeshy) 
@@ -22,7 +25,6 @@ My background blends full-stack web and mobile development (React, Node.js, Pyth
 Passionate about clean code, security-first development, and shipping impactful software fast. Let’s build something great!
 
 **Current Focus:** Building AI-powered platforms leveraging OpenAI APIs, Vector Search (Pinecone, pgvector), Retrieval-Augmented Generation (RAG) pipelines, and secure LLM deployments.
-![AI/ML Engineer](https://img.shields.io/badge/AI%2FML-Engineer-blueviolet?style=for-the-badge&logo=openai&logoColor=white)
 
 ## :muscle: Core Strengths
 
@@ -49,7 +51,7 @@ For a detailed look at my education, skills, and work experience, feel free to c
 - **Frontend:** React, React Native, Next.js, HTML5, CSS3, SASS, Redux Toolkit, MaterialUI (MUI), Bootstrap, TailwindCSS, Emotion, React Hook Form
 - **Backend:** Node.js, Express.js, Flask, Server-side JavaScript, Prisma, GraphQL, Apollo, Redis
 - **Databases:** PostgreSQL, MySQL, MongoDB, Pinecone, pgvector
-- **AI/ML:** OpenAI API, Vector Search (Pinecone, pgvector), LangChain, Hugging Face Transformers, LLamaIndex, Sentence Transformers, FastAPI, Pydantic, GPU-Aware Deployment, Promt Engineering
+- **AI/ML:** OpenAI API, Vector Search (Pinecone, pgvector), LangChain, Hugging Face Transformers, LLamaIndex, Sentence Transformers, FastAPI, Pydantic, GPU-Aware Deployment, Promt Engineering, Dockerized LLM deployment, Retrieval-Augmented Generation (RAG) pipelines
 - **Cloud & DevOps:** AWS, GCP, Azure, Vercel, Heroku, Netlify, Docker, Kubernetes, Serverless Framework, Zapier
 - **Testing:** React Testing, Jest, React Testing Library, Cypress, Storybook, SWR, ESLint, Prettier, Cypress, Error Boundary
 - **Version Control:** Git, GitHub, Git Flow, Pull Requests, Code Reviews, Husky
